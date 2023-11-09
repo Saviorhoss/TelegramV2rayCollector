@@ -108,7 +108,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "RELAY🚩",
+                "TR🇹🇷",
                 "FR🇫🇷",
                 "US🇺🇸",
                 "DE🇩🇪"
@@ -118,7 +118,7 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TUIC | @iP_CF | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | TUIC | @iP_CF | TR🇹🇷 | 0️⃣1️⃣",
                 "رایگان | TUIC | @irancpi_vpn | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | TUIC | @V2rayCollector | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TUIC | @V2rayCollector | US🇺🇸 | 0️⃣2️⃣",
@@ -130,10 +130,10 @@
             "tolerance": 50
         },
         {
-            "tag": "RELAY🚩",
+            "tag": "TR🇹🇷",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TUIC | @iP_CF | RELAY🚩 | 0️⃣1️⃣"
+                "رایگان | TUIC | @iP_CF | TR🇹🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -172,7 +172,7 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | TUIC | @iP_CF | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | TUIC | @iP_CF | TR🇹🇷 | 0️⃣1️⃣",
             "type": "tuic",
             "server": "78.135.82.244",
             "server_port": 36531,
