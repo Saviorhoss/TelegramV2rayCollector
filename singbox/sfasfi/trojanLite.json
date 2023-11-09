@@ -114,11 +114,10 @@
                 "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | IN🇮🇳 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣"
@@ -134,11 +133,10 @@
                 "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | IN🇮🇳 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣"
@@ -295,28 +293,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "18.170.154.217",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trj.rollingnext.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "15.236.182.69",
             "server_port": 22222,
@@ -337,7 +314,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "35.181.93.99",
             "server_port": 22222,
@@ -379,7 +356,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "108.181.22.161",
             "server_port": 443,
