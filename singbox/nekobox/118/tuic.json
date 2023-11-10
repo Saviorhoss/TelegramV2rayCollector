@@ -110,6 +110,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
+                "RELAY🚩",
                 "CA🇨🇦",
                 "TR🇹🇷",
                 "FR🇫🇷",
@@ -120,7 +121,7 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TUIC | @iP_CF | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TUIC | @iP_CF | RELAY🚩 | 0️⃣1️⃣",
                 "رایگان | TUIC | @iP_CF | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | TUIC | @azadi_az_inja_migzare | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | TUIC | @azadi_az_inja_migzare | CA🇨🇦 | 0️⃣3️⃣",
@@ -133,10 +134,19 @@
             "tolerance": 50
         },
         {
+            "tag": "RELAY🚩",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | TUIC | @iP_CF | RELAY🚩 | 0️⃣1️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
             "tag": "CA🇨🇦",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TUIC | @iP_CF | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TUIC | @iP_CF | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | TUIC | @azadi_az_inja_migzare | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | TUIC | @azadi_az_inja_migzare | CA🇨🇦 | 0️⃣3️⃣"
@@ -176,7 +186,7 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | TUIC | @iP_CF | CA🇨🇦 | 0️⃣1️⃣",
+            "tag": "رایگان | TUIC | @iP_CF | RELAY🚩 | 0️⃣1️⃣",
             "type": "tuic",
             "server": "108.181.22.205",
             "server_port": 50987,
