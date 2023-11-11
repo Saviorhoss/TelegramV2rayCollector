@@ -107,9 +107,7 @@
                 "URL-TEST | رایگان",
                 "PL🇵🇱",
                 "FR🇫🇷",
-                "GB🇬🇧",
-                "DE🇩🇪",
-                "KR🇰🇷"
+                "GB🇬🇧"
             ]
         },
         {
@@ -119,9 +117,7 @@
                 "رایگان | SS | @iP_CF | PL🇵🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @iP_CF | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | KR🇰🇷 | 0️⃣1️⃣"
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -153,26 +149,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "DE🇩🇪",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣2️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "KR🇰🇷",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @forwardv2ray | KR🇰🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -215,26 +191,6 @@
             "server_port": 46130,
             "method": "chacha20-ietf-poly1305",
             "password": "mTypilmjidrr6dQYaOGHf7",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "www.outline.network.ak1957.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou",
-            "server_port": 8388,
-            "method": "chacha20-ietf-poly1305",
-            "password": "YTViY",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | KR🇰🇷 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "43.202.49.222",
-            "server_port": 2333,
-            "method": "aes-256-cfb",
-            "password": "doub.io",
             "plugin": "",
             "plugin_opts": ""
         },
