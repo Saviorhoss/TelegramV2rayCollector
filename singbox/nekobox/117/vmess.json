@@ -123,14 +123,15 @@
                 "رایگان | VMESS | @MrV2Ray | IR🇮🇷 | 0️⃣3️⃣",
                 "رایگان | VMESS | @V2rayCollectorDonate | RELAY🚩 | 0️⃣2️⃣",
                 "رایگان | VMESS | @prrofile_purple | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @v2ray1_ng | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @forwardv2ray | RELAY🚩 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2ray_outlineir | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2ray_outlineir | FI🇫🇮 | 0️⃣2️⃣",
                 "رایگان | VMESS | @Qv2rayDONATED | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @forwardv2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @v2ray_swhil | BY🇧🇾 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2Line | BY🇧🇾 | 0️⃣1️⃣",
                 "رایگان | VMESS | @FreakConfig | BY🇧🇾 | 0️⃣1️⃣",
@@ -158,9 +159,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | VMESS | @V2rayCollectorDonate | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @prrofile_purple | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @v2ray1_ng | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @forwardv2ray | RELAY🚩 | 0️⃣1️⃣"
+                "رایگان | VMESS | @prrofile_purple | RELAY🚩 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -192,8 +191,11 @@
             "outbounds": [
                 "رایگان | VMESS | @Qv2rayDONATED | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣"
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @forwardv2ray | US🇺🇸 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -389,76 +391,6 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @v2ray1_ng | RELAY🚩 | 0️⃣2️⃣",
-            "type": "vmess",
-            "server": "173.245.58.0",
-            "server_port": 2087,
-            "uuid": "d0857f50-9b89-4d9c-d0b1-3f3d09a81e1c",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "my.hightehran.cfd",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @forwardv2ray | RELAY🚩 | 0️⃣1️⃣",
-            "type": "vmess",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 1,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ophelia.mom",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "ophelia.mom"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
             "tag": "رایگان | VMESS | @v2ray_outlineir | RU🇷🇺 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "198.41.202.5",
@@ -584,6 +516,40 @@
             }
         },
         {
+            "tag": "رایگان | VMESS | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
+            "type": "vmess",
+            "server": "173.245.58.0",
+            "server_port": 2087,
+            "uuid": "d0857f50-9b89-4d9c-d0b1-3f3d09a81e1c",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "my.hightehran.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
             "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "77.73.131.173",
@@ -635,6 +601,68 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
+            }
+        },
+        {
+            "tag": "رایگان | VMESS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
+            "type": "vmess",
+            "server": "95.164.62.204",
+            "server_port": 80,
+            "uuid": "2ba1c86f-789f-4dd8-b52a-17d21164f2ba",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/vmess",
+                "headers": {
+                    "Host": "be1.xv2ray.net"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VMESS | @forwardv2ray | US🇺🇸 | 0️⃣2️⃣",
+            "type": "vmess",
+            "server": "188.114.97.1",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 1,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "odelia.autos",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkvws",
+                "headers": {
+                    "Host": "odelia.autos"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
         {
