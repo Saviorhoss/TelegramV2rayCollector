@@ -114,7 +114,7 @@
                 "IN🇮🇳",
                 "US🇺🇸",
                 "AU🇦🇺",
-                "SG🇸🇬"
+                "CA🇨🇦"
             ]
         },
         {
@@ -132,7 +132,7 @@
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | AU🇦🇺 | 0️⃣3️⃣",
-                "رایگان | SS | @forwardv2ray | SG🇸🇬 | 0️⃣1️⃣"
+                "رایگان | SS | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -204,10 +204,10 @@
             "tolerance": 50
         },
         {
-            "tag": "SG🇸🇬",
+            "tag": "CA🇨🇦",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @forwardv2ray | SG🇸🇬 | 0️⃣1️⃣"
+                "رایگان | SS | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -324,12 +324,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | SG🇸🇬 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "singapore.telegavpn.org",
-            "server_port": 16759,
+            "server": "toronto.telegavpn.org",
+            "server_port": 31024,
             "method": "chacha20-ietf-poly1305",
-            "password": "BZ5dbRQapTKKP08sxEP9DZ",
+            "password": "X09JcJJMlFOyOaRNnCoHOQ",
             "plugin": "",
             "plugin_opts": ""
         },
