@@ -111,6 +111,7 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "SE🇸🇪",
+                "FR🇫🇷",
                 "GB🇬🇧",
                 "US🇺🇸",
                 "RU🇷🇺",
@@ -124,12 +125,12 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @iP_CF | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | SS | @iP_CF | GB🇬🇧 | 0️⃣2️⃣",
+                "رایگان | SS | @iP_CF | FR🇫🇷 | 0️⃣2️⃣",
+                "رایگان | SS | @iP_CF | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @vmess_vless_v2rayng | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣2️⃣",
-                "رایگان | SS | @VmessProtocol | PK🇵🇰 | 0️⃣3️⃣",
+                "رایگان | SS | @VmessProtocol | PK🇵🇰 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | IN🇮🇳 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AL🇦🇱 | 0️⃣2️⃣"
             ],
@@ -148,10 +149,20 @@
             "tolerance": 50
         },
         {
+            "tag": "FR🇫🇷",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @iP_CF | FR🇫🇷 | 0️⃣2️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
             "tag": "GB🇬🇧",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @iP_CF | GB🇬🇧 | 0️⃣2️⃣",
+                "رایگان | SS | @iP_CF | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @vmess_vless_v2rayng | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -172,8 +183,7 @@
             "tag": "RU🇷🇺",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣2️⃣"
+                "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -183,7 +193,7 @@
             "tag": "PK🇵🇰",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @VmessProtocol | PK🇵🇰 | 0️⃣3️⃣"
+                "رایگان | SS | @VmessProtocol | PK🇵🇰 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -220,7 +230,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @iP_CF | GB🇬🇧 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @iP_CF | FR🇫🇷 | 0️⃣2️⃣",
+            "type": "shadowsocks",
+            "server": "162.19.18.105",
+            "server_port": 443,
+            "method": "aes-256-cfb",
+            "password": "asdKkaskJKfnsa",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @iP_CF | GB🇬🇧 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "195.181.165.151",
             "server_port": 443,
@@ -252,16 +272,6 @@
         {
             "tag": "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "185.221.153.52",
-            "server_port": 51348,
-            "method": "chacha20-ietf-poly1305",
-            "password": "k0qB3WfkUyA7xIXnGh5tRMUX1w9qJmKwpkIbWgOiAtiCydAC",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣2️⃣",
-            "type": "shadowsocks",
             "server": "217.29.63.152",
             "server_port": 51348,
             "method": "chacha20-ietf-poly1305",
@@ -270,7 +280,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | PK🇵🇰 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | PK🇵🇰 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "50.114.157.63",
             "server_port": 10020,
