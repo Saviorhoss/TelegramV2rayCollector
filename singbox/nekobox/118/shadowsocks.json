@@ -110,10 +110,9 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "FR🇫🇷",
+                "US🇺🇸",
                 "GB🇬🇧",
                 "UA🇺🇦",
-                "US🇺🇸",
                 "IN🇮🇳"
             ]
         },
@@ -121,12 +120,11 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @iP_CF | FR🇫🇷 | 0️⃣1️⃣",
-                "رایگان | SS | @iP_CF | FR🇫🇷 | 0️⃣2️⃣",
-                "رایگان | SS | @vmess_vless_v2rayng | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | UA🇺🇦 | 0️⃣1️⃣",
+                "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | SS | @vmess_vless_v2rayng | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @VmessProtocol | UA🇺🇦 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | IN🇮🇳 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -134,11 +132,12 @@
             "tolerance": 50
         },
         {
-            "tag": "FR🇫🇷",
+            "tag": "US🇺🇸",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @iP_CF | FR🇫🇷 | 0️⃣1️⃣",
-                "رایگان | SS | @iP_CF | FR🇫🇷 | 0️⃣2️⃣"
+                "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -165,17 +164,6 @@
             "tolerance": 50
         },
         {
-            "tag": "US🇺🇸",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
             "tag": "IN🇮🇳",
             "type": "urltest",
             "outbounds": [
@@ -186,42 +174,12 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | SS | @iP_CF | FR🇫🇷 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "135.125.172.139",
-            "server_port": 443,
-            "method": "aes-256-cfb",
-            "password": "asdKkaskJKfnsa",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @iP_CF | FR🇫🇷 | 0️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "135.125.172.153",
-            "server_port": 443,
-            "method": "aes-256-cfb",
-            "password": "asdKkaskJKfnsa",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @vmess_vless_v2rayng | GB🇬🇧 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "13.87.75.155",
-            "server_port": 46130,
+            "server": "beeconf.xyz",
+            "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
-            "password": "mTypilmjidrr6dQYaOGHf7",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @VmessProtocol | UA🇺🇦 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "193.0.61.96",
-            "server_port": 51348,
-            "method": "chacha20-ietf-poly1305",
-            "password": "CN85ktoYwfLMspQLnmZ9xZz6AhPFDpa1RSe5wigRnjKOQNRV",
+            "password": "ezesBXesf3RKBCp1vqKuIx",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -242,6 +200,26 @@
             "server_port": 2443,
             "method": "aes-256-gcm",
             "password": "slkiJLsW+2c9UiX0XvxISMvfiZWr53MjDqx1DuAC1VE=",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @vmess_vless_v2rayng | GB🇬🇧 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "13.87.75.155",
+            "server_port": 46130,
+            "method": "chacha20-ietf-poly1305",
+            "password": "mTypilmjidrr6dQYaOGHf7",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @VmessProtocol | UA🇺🇦 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "193.0.61.96",
+            "server_port": 51348,
+            "method": "chacha20-ietf-poly1305",
+            "password": "CN85ktoYwfLMspQLnmZ9xZz6AhPFDpa1RSe5wigRnjKOQNRV",
             "plugin": "",
             "plugin_opts": ""
         },
