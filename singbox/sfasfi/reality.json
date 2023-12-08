@@ -118,8 +118,7 @@
                 "IT🇮🇹",
                 "NO🇳🇴",
                 "LV🇱🇻",
-                "NL🇳🇱",
-                "IN🇮🇳"
+                "NL🇳🇱"
             ]
         },
         {
@@ -131,9 +130,9 @@
                 "رایگان | REALITY | @V2pedia | FI🇫🇮 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2pedia | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2logy | FI🇫🇮 | 0️⃣2️⃣",
-                "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣3️⃣",
+                "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣4️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @MTConfig | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @v2rayng_vpnrog | FI🇫🇮 | 0️⃣1️⃣",
@@ -264,9 +263,7 @@
                 "رایگان | REALITY | @V2Hub | Donated | IT🇮🇹 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | NO🇳🇴 | 1️⃣0️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | LV🇱🇻 | 3️⃣5️⃣",
-                "رایگان | REALITY | @V2Hub | Donated | NL🇳🇱 | 3️⃣8️⃣",
-                "رایگان | REALITY | @majidreza_rahnavard | Donated | IN🇮🇳 | 0️⃣1️⃣",
-                "رایگان | REALITY | @majidreza_rahnavard | Donated | IN🇮🇳 | 0️⃣2️⃣"
+                "رایگان | REALITY | @V2Hub | Donated | NL🇳🇱 | 3️⃣8️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -281,9 +278,9 @@
                 "رایگان | REALITY | @V2pedia | FI🇫🇮 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2pedia | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2logy | FI🇫🇮 | 0️⃣2️⃣",
-                "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣3️⃣",
+                "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣4️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @MTConfig | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @v2rayng_vpnrog | FI🇫🇮 | 0️⃣1️⃣",
@@ -511,17 +508,6 @@
             "tolerance": 50
         },
         {
-            "tag": "IN🇮🇳",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @majidreza_rahnavard | Donated | IN🇮🇳 | 0️⃣1️⃣",
-                "رایگان | REALITY | @majidreza_rahnavard | Donated | IN🇮🇳 | 0️⃣2️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
             "tag": "رایگان | REALITY | @EliV2ray | FI🇫🇮 | 0️⃣1️⃣",
             "type": "vless",
             "server": "95.217.243.4",
@@ -683,7 +669,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣2️⃣",
             "type": "vless",
             "server": "65.109.184.213",
             "server_port": 443,
@@ -718,7 +704,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣3️⃣",
             "type": "vless",
             "server": "65.109.198.33",
             "server_port": 443,
@@ -753,7 +739,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣4️⃣",
             "type": "vless",
             "server": "65.109.197.193",
             "server_port": 443,
@@ -4641,62 +4627,6 @@
                     "enabled": true,
                     "public_key": "OpqpQzXN7zSlM-P4YhdjProDaYJt0KzzpdsCMUqQmm0",
                     "short_id": "7519cb"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @majidreza_rahnavard | Donated | IN🇮🇳 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "148.113.3.134",
-            "server_port": 443,
-            "uuid": "42bd78be-4008-4993-9575-ea62cc493362",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ftp.debian.org",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "oMNdNFZOc6vhepLrmFankR_ucI12sjk1xV_x-aqNiUU",
-                    "short_id": "c6a9c8836de6e101"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @majidreza_rahnavard | Donated | IN🇮🇳 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "148.113.3.134",
-            "server_port": 22,
-            "uuid": "ed52c12c-b5a4-4b2f-9caa-3de6730f2388",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "discord.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "oMNdNFZOc6vhepLrmFankR_ucI12sjk1xV_x-aqNiUU",
-                    "short_id": "c6a9c8836de6e101"
                 }
             }
         },
