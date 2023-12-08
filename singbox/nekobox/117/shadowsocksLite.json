@@ -112,10 +112,7 @@
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | IN🇮🇳 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | CA🇨🇦 | 0️⃣3️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | IN🇮🇳 | 0️⃣2️⃣"
             ]
         },
         {
@@ -129,10 +126,7 @@
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | IN🇮🇳 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | CA🇨🇦 | 0️⃣3️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | IN🇮🇳 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -215,36 +209,6 @@
             "server_port": 2443,
             "method": "aes-256-gcm",
             "password": "ec+AA7AaT5JfP4UGJHsYwFqyy+hkunVRp8gdIrfWt7U=",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "95.164.87.138",
-            "server_port": 63830,
-            "method": "chacha20-ietf-poly1305",
-            "password": "dPW6SKhVfqDevBfdrt5eJg",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "51.142.92.199",
-            "server_port": 44934,
-            "method": "chacha20-ietf-poly1305",
-            "password": "cg9gKWbWgJ8aj3FfUN6Ztu",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | CA🇨🇦 | 0️⃣3️⃣",
-            "type": "shadowsocks",
-            "server": "toronto.telegavpn.org",
-            "server_port": 31024,
-            "method": "chacha20-ietf-poly1305",
-            "password": "GBZScqKthB9m6c3VAdzZkk",
             "plugin": "",
             "plugin_opts": ""
         },
