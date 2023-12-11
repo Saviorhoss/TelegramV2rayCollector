@@ -106,8 +106,7 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | SS | @proxyymeliii | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | UA🇺🇦 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | HK🇭🇰 | 0️⃣1️⃣"
+                "رایگان | SS | @VmessProtocol | UA🇺🇦 | 0️⃣1️⃣"
             ]
         },
         {
@@ -115,8 +114,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @proxyymeliii | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | UA🇺🇦 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | HK🇭🇰 | 0️⃣1️⃣"
+                "رایگان | SS | @VmessProtocol | UA🇺🇦 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -125,10 +123,10 @@
         {
             "tag": "رایگان | SS | @proxyymeliii | US🇺🇸 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "www.outline.network.ak1967.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou",
+            "server": "www.outline.network.ak1909.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "Bog0ELmMM9DSxDdQ",
+            "password": "mps3FwmDjLrWaOVg",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -139,16 +137,6 @@
             "server_port": 58603,
             "method": "chacha20-ietf-poly1305",
             "password": "5UyVcx4jYrcbFwmhPkhzim",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | HK🇭🇰 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "165.154.202.237",
-            "server_port": 10001,
-            "method": "aes-256-gcm",
-            "password": "1CeOM6FSNg",
             "plugin": "",
             "plugin_opts": ""
         },
