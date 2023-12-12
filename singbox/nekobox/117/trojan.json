@@ -110,8 +110,7 @@
                 "IE🇮🇪",
                 "RU🇷🇺",
                 "FR🇫🇷",
-                "JP🇯🇵",
-                "IR🇮🇷"
+                "JP🇯🇵"
             ]
         },
         {
@@ -119,20 +118,14 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | TROJAN | @iP_CF | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @proxyymeliii | FR🇫🇷 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @yaney_01 | FR🇫🇷 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @VmessProtocol | JP🇯🇵 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | IR🇮🇷 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | IR🇮🇷 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @forwardv2ray | IR🇮🇷 | 0️⃣1️⃣"
+                "رایگان | TROJAN | @VmessProtocol | JP🇯🇵 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -142,9 +135,7 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TROJAN | @iP_CF | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣2️⃣"
+                "رایگان | TROJAN | @iP_CF | DE🇩🇪 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -187,7 +178,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | TROJAN | @proxyymeliii | FR🇫🇷 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @yaney_01 | FR🇫🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -199,18 +189,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | TROJAN | @VmessProtocol | JP🇯🇵 | 0️⃣2️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "IR🇮🇷",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | TROJAN | @ConfigsHUB | IR🇮🇷 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | IR🇮🇷 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @forwardv2ray | IR🇮🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -230,48 +208,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "20-24-33-134.nhost.00cdn.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "3.125.235.60",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trj.rollingnext.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣2️⃣",
-            "type": "trojan",
-            "server": "3.124.68.87",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trj.rollingnext.co.uk",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -406,27 +342,6 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @ConfigsHUB | FR🇫🇷 | 0️⃣2️⃣",
-            "type": "trojan",
-            "server": "13.37.150.156",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trj.rollingnext.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "رایگان | TROJAN | @yaney_01 | FR🇫🇷 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "141.94.221.127",
@@ -456,90 +371,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @ConfigsHUB | IR🇮🇷 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "cdn.netex3.online",
-            "server_port": 443,
-            "password": "88a07028-fa77-4a27-9358-608ab4dcbb51",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cdn.netex3.online",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "4QoifeKksqGTqx5w",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @ConfigsHUB | IR🇮🇷 | 0️⃣3️⃣",
-            "type": "trojan",
-            "server": "cdn.netex3.online",
-            "server_port": 443,
-            "password": "88a07028-fa77-4a27-9358-608ab4dcbb51",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cdn.netex3.online",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/4QoifeKks22HBhURNoaUNOtz",
-                "headers": {
-                    "Host": "cdn.netex3.online"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @forwardv2ray | IR🇮🇷 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "cdn.netex3.online",
-            "server_port": 443,
-            "password": "88a07028-fa77-4a27-9358-608ab4dcbb51",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cdn.netex3.online",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/4QoifeKks22HBhURNoaUNOtz",
-                "headers": {
-                    "Host": "cdn.netex3.online"
                 }
             }
         },
