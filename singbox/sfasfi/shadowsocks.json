@@ -108,7 +108,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "US🇺🇸"
+                "US🇺🇸",
+                "GB🇬🇧"
             ]
         },
         {
@@ -117,7 +118,8 @@
             "outbounds": [
                 "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @proxyymeliii | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -130,6 +132,16 @@
                 "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @proxyymeliii | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "GB🇬🇧",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -162,6 +174,16 @@
             "server_port": 2375,
             "method": "aes-256-gcm",
             "password": "faBAoD54k87UJG7",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "51.132.19.71",
+            "server_port": 17089,
+            "method": "chacha20-ietf-poly1305",
+            "password": "QaXI6dESxADIOyAAEJQOlS",
             "plugin": "",
             "plugin_opts": ""
         },
