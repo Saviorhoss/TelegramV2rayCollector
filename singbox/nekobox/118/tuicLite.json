@@ -112,9 +112,9 @@
                 "URL-TEST | رایگان",
                 "رایگان | TUIC | @irancpi_vpn | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | TUIC | @irancpi_vpn | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | TUIC | @azadi_az_inja_migzare | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | TUIC | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | TUIC | @azadi_az_inja_migzare | NL🇳🇱 | 0️⃣3️⃣"
+                "رایگان | TUIC | @EUT_VPN | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TUIC | @EUT_VPN | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | TUIC | @EUT_VPN | NL🇳🇱 | 0️⃣3️⃣"
             ]
         },
         {
@@ -123,9 +123,9 @@
             "outbounds": [
                 "رایگان | TUIC | @irancpi_vpn | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | TUIC | @irancpi_vpn | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | TUIC | @azadi_az_inja_migzare | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | TUIC | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | TUIC | @azadi_az_inja_migzare | NL🇳🇱 | 0️⃣3️⃣"
+                "رایگان | TUIC | @EUT_VPN | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TUIC | @EUT_VPN | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | TUIC | @EUT_VPN | NL🇳🇱 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -178,7 +178,7 @@
             }
         },
         {
-            "tag": "رایگان | TUIC | @azadi_az_inja_migzare | CA🇨🇦 | 0️⃣1️⃣",
+            "tag": "رایگان | TUIC | @EUT_VPN | CA🇨🇦 | 0️⃣1️⃣",
             "type": "tuic",
             "server": "108.181.22.239",
             "server_port": 19988,
@@ -201,7 +201,7 @@
             }
         },
         {
-            "tag": "رایگان | TUIC | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | TUIC | @EUT_VPN | DE🇩🇪 | 0️⃣2️⃣",
             "type": "tuic",
             "server": "45.15.157.181",
             "server_port": 8443,
@@ -224,7 +224,7 @@
             }
         },
         {
-            "tag": "رایگان | TUIC | @azadi_az_inja_migzare | NL🇳🇱 | 0️⃣3️⃣",
+            "tag": "رایگان | TUIC | @EUT_VPN | NL🇳🇱 | 0️⃣3️⃣",
             "type": "tuic",
             "server": "209.250.254.198",
             "server_port": 443,
