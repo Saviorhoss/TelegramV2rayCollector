@@ -224,7 +224,7 @@
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @MTConfig | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣7️⃣",
@@ -243,7 +243,6 @@
                 "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | FI🇫🇮 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣2️⃣",
-                "رایگان | REALITY | @Capoit | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | US🇺🇸 | 0️⃣8️⃣",
                 "رایگان | REALITY | @FreakConfig | US🇺🇸 | 0️⃣1️⃣",
@@ -398,7 +397,7 @@
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @MTConfig | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣7️⃣",
@@ -434,8 +433,7 @@
                 "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | FI🇫🇮 | 0️⃣2️⃣",
-                "رایگان | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣2️⃣",
-                "رایگان | REALITY | @Capoit | FI🇫🇮 | 0️⃣1️⃣"
+                "رایگان | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -3422,7 +3420,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣1️⃣",
             "type": "vless",
             "server": "49.13.51.124",
             "server_port": 443,
@@ -4033,41 +4031,6 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "kJoHDIHySl9Nk6gI7RsywEKx77EzhYx_C4DC9lW6jRQ",
-                    "short_id": "fada4f5f"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@ipV2Ray",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @Capoit | FI🇫🇮 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "65.108.244.106",
-            "server_port": 443,
-            "uuid": "a0562dec-26ac-43d4-ba1d-785c334e644f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "greenpepper.ir",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "vJGo_BkQle_lwbyfgs92GPd9binioiBaQj9lqFFDYlE",
                     "short_id": "fada4f5f"
                 }
             },
