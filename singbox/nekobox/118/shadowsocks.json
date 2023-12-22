@@ -111,8 +111,8 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "US🇺🇸",
-                "NL🇳🇱",
-                "MX🇲🇽"
+                "GB🇬🇧",
+                "NL🇳🇱"
             ]
         },
         {
@@ -120,8 +120,8 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | MX🇲🇽 | 0️⃣1️⃣"
+                "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -138,20 +138,20 @@
             "tolerance": 50
         },
         {
-            "tag": "NL🇳🇱",
+            "tag": "GB🇬🇧",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣1️⃣"
+                "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "MX🇲🇽",
+            "tag": "NL🇳🇱",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @forwardv2ray | MX🇲🇽 | 0️⃣1️⃣"
+                "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -168,22 +168,22 @@
             "plugin_opts": ""
         },
         {
+            "tag": "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "52.142.161.9",
+            "server_port": 34424,
+            "method": "chacha20-ietf-poly1305",
+            "password": "64LbKHnB3IO759ueEnhgMG",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
             "tag": "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "45.87.154.143",
             "server_port": 1165,
             "method": "chacha20-ietf-poly1305",
             "password": "0cAOTNuOqZQuK1c9-mCXJQ",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | MX🇲🇽 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "190.103.179.23",
-            "server_port": 989,
-            "method": "aes-256-cfb",
-            "password": "f8f7aCzcPKbsF8p3",
             "plugin": "",
             "plugin_opts": ""
         },
