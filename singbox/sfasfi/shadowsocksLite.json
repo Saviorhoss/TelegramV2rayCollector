@@ -114,8 +114,7 @@
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣2️⃣"
+                "رایگان | SS | @forwardv2ray | NL🇳🇱 | 0️⃣1️⃣"
             ]
         },
         {
@@ -128,8 +127,7 @@
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣2️⃣"
+                "رایگان | SS | @forwardv2ray | NL🇳🇱 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -196,22 +194,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | NL🇳🇱 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "51.77.53.200",
-            "server_port": 7306,
-            "method": "aes-256-gcm",
-            "password": "FoOiGlkAA9yPEGP",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "51.77.53.200",
-            "server_port": 8009,
-            "method": "aes-256-gcm",
-            "password": "XKFKl2rULjIp74",
+            "server": "amsterdam.telegavpn.org",
+            "server_port": 59531,
+            "method": "chacha20-ietf-poly1305",
+            "password": "wDWO9aG13tRbyN1lm0b4pq",
             "plugin": "",
             "plugin_opts": ""
         },
