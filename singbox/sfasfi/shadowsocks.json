@@ -126,10 +126,9 @@
                 "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 0️⃣4️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 0️⃣6️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 0️⃣8️⃣",
-                "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 0️⃣9️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 1️⃣0️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 1️⃣1️⃣",
-                "رایگان | SS | @V2rayCollectorDonate | GB🇬🇧 | 1️⃣2️⃣",
+                "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 1️⃣2️⃣",
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣2️⃣"
@@ -158,9 +157,9 @@
                 "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 0️⃣4️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 0️⃣6️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 0️⃣8️⃣",
-                "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 0️⃣9️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 1️⃣0️⃣",
-                "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 1️⃣1️⃣"
+                "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 1️⃣1️⃣",
+                "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 1️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -170,7 +169,6 @@
             "tag": "GB🇬🇧",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @V2rayCollectorDonate | GB🇬🇧 | 1️⃣2️⃣",
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -268,7 +266,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 0️⃣9️⃣",
+            "tag": "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 1️⃣0️⃣",
             "type": "shadowsocks",
             "server": "tr.sabz.top",
             "server_port": 32111,
@@ -278,7 +276,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 1️⃣0️⃣",
+            "tag": "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 1️⃣1️⃣",
             "type": "shadowsocks",
             "server": "tr.sabz.top",
             "server_port": 32111,
@@ -288,22 +286,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 1️⃣1️⃣",
+            "tag": "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 1️⃣2️⃣",
             "type": "shadowsocks",
             "server": "tr.sabz.top",
             "server_port": 32111,
             "method": "aes-128-gcm",
             "password": "AmBRW5ufyaRnmwmbRh6XR0AHXA9CIzSve5WJzY9bxD8=",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @V2rayCollectorDonate | GB🇬🇧 | 1️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "uk.fanqiecloud.top",
-            "server_port": 24504,
-            "method": "chacha20-ietf-poly1305",
-            "password": "dbb0baf4-7747-41cf-a989-14e136c33ca6",
             "plugin": "",
             "plugin_opts": ""
         },
