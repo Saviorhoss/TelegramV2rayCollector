@@ -113,8 +113,8 @@
                 "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @iP_CF | SE🇸🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @forwardv2ray | RU🇷🇺 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣"
+                "رایگان | SS | @VmessProtocol | TW🇹🇼 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣"
             ]
         },
         {
@@ -124,8 +124,8 @@
                 "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @iP_CF | SE🇸🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @forwardv2ray | RU🇷🇺 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣"
+                "رایگان | SS | @VmessProtocol | TW🇹🇼 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -162,22 +162,22 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | RU🇷🇺 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | TW🇹🇼 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "is1.ssproxy.xyz",
-            "server_port": 8388,
+            "server": "ty11.twty.dynu.net",
+            "server_port": 2203,
             "method": "chacha20-ietf-poly1305",
-            "password": "OWJlYjYy",
+            "password": "88162ed0-5a4d-4d7b-8a5c-ed5b5fa70e0d",
             "plugin": "",
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "masting.xyz",
-            "server_port": 8080,
+            "server": "876.outline-vpn.cloud",
+            "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "XvK0ltH67Xhv9ht9RhYsFy",
+            "password": "R9Xc4dHXGv3c",
             "plugin": "",
             "plugin_opts": ""
         },
