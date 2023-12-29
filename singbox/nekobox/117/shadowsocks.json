@@ -116,8 +116,10 @@
             "outbounds": [
                 "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @iP_CF | SE🇸🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣"
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -128,7 +130,8 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣2️⃣"
+                "رایگان | SS | @iP_CF | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -148,7 +151,8 @@
             "tag": "GB🇬🇧",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣"
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -175,6 +179,16 @@
             "plugin_opts": ""
         },
         {
+            "tag": "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "la.telegavpn.org",
+            "server_port": 33966,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Uq8OuloTTXTEeIGI8pOzfM",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
             "tag": "رایگان | SS | @iP_CF | SE🇸🇪 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "45.8.147.80",
@@ -186,6 +200,16 @@
         },
         {
             "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "51.141.100.112",
+            "server_port": 24007,
+            "method": "chacha20-ietf-poly1305",
+            "password": "kYlKGnPRNwVk4RQEi7oqQs",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "kr.colacloud.site",
             "server_port": 20352,
