@@ -108,11 +108,11 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "US🇺🇸",
+                "DE🇩🇪",
                 "GB🇬🇧",
                 "FR🇫🇷",
                 "RU🇷🇺",
-                "DE🇩🇪",
+                "US🇺🇸",
                 "CA🇨🇦"
             ]
         },
@@ -120,16 +120,16 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TROJAN | @V2rayCollectorDonate | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @VmessProtocol | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @yaney_01 | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @yaney_01 | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | RU🇷🇺 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | RU🇷🇺 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @VmessProtocol | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @yaney_01 | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @yaney_01 | CA🇨🇦 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -137,11 +137,13 @@
             "tolerance": 50
         },
         {
-            "tag": "US🇺🇸",
+            "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TROJAN | @V2rayCollectorDonate | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | TROJAN | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @VmessProtocol | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @yaney_01 | DE🇩🇪 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -151,7 +153,8 @@
             "tag": "GB🇬🇧",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣1️⃣"
+                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @yaney_01 | GB🇬🇧 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -172,20 +175,17 @@
             "tag": "RU🇷🇺",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TROJAN | @oneclickvpnkeys | RU🇷🇺 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | RU🇷🇺 | 0️⃣3️⃣"
+                "رایگان | TROJAN | @oneclickvpnkeys | RU🇷🇺 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "DE🇩🇪",
+            "tag": "US🇺🇸",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TROJAN | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @VmessProtocol | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @yaney_01 | DE🇩🇪 | 0️⃣2️⃣"
+                "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -202,7 +202,7 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | TROJAN | @V2rayCollectorDonate | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "cf.xyzquant.cloud",
             "server_port": 443,
@@ -230,11 +230,11 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
             "type": "trojan",
-            "server": "tgju.org",
-            "server_port": 443,
-            "password": "e240a3b5-5bb3-4400-ae61-03fadfa6be45",
+            "server": "3.64.156.66",
+            "server_port": 22222,
+            "password": "telegram-id-directvpn",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -242,19 +242,45 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "allahi.qurani.shop",
+                "server_name": "trj.rollingnext.co.uk",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @VmessProtocol | DE🇩🇪 | 0️⃣1️⃣",
+            "type": "trojan",
+            "server": "78.47.217.216",
+            "server_port": 993,
+            "password": "74811f39-8f69-4334-9e0f-a8a25d7413c1",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             },
-            "transport": {
-                "type": "ws",
-                "path": "\/TCX2nCjj4zeBeTfndgk5",
-                "headers": {
-                    "Host": "allahi.qurani.shop"
+            "tls": {
+                "enabled": true,
+                "server_name": "www.casperco.online",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @yaney_01 | DE🇩🇪 | 0️⃣3️⃣",
+            "type": "trojan",
+            "server": "5.104.107.143",
+            "server_port": 443,
+            "password": "6befeeb3-702b-4948-9028-f9e072f2da98",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
@@ -276,6 +302,18 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @yaney_01 | GB🇬🇧 | 0️⃣2️⃣",
+            "type": "trojan",
+            "server": "in01.trojanyyds.xyz",
+            "server_port": 443,
+            "password": "93ec7261-1c92-4149-848a-26b6fb9fc4ce",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
@@ -342,78 +380,31 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @oneclickvpnkeys | RU🇷🇺 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
             "type": "trojan",
-            "server": "89.221.224.94",
-            "server_port": 80,
-            "password": "28c79056-ccfd-4cc1-93d4-c337cc782e65",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "is2-t.sshmax.xyz",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "3.64.156.66",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trj.rollingnext.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @VmessProtocol | DE🇩🇪 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "78.47.217.216",
-            "server_port": 993,
-            "password": "74811f39-8f69-4334-9e0f-a8a25d7413c1",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.casperco.online",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @yaney_01 | DE🇩🇪 | 0️⃣2️⃣",
-            "type": "trojan",
-            "server": "5.104.107.143",
+            "server": "104.31.16.84",
             "server_port": 443,
-            "password": "6befeeb3-702b-4948-9028-f9e072f2da98",
+            "password": "2773023d-ddf7-4663-b076-60c3d1e0c485",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cloudflare.saghy.online",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/tdsbfgyucjN6vVbD0j8tJ2X4BjQwU",
+                "headers": {
+                    "Host": "cloudflare.saghy.online"
+                }
             }
         },
         {
