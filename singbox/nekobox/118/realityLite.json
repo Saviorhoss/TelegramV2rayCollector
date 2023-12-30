@@ -113,16 +113,14 @@
                 "رایگان | REALITY | @reality_daily | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | REALITY | @reality_daily | RU🇷🇺 | 0️⃣2️⃣",
                 "رایگان | REALITY | @reality_daily | RU🇷🇺 | 0️⃣3️⃣",
-                "رایگان | REALITY | @frev2ray | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | REALITY | @vpn_xw | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @frev2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | REALITY | @V2rayCollector | LT🇱🇹 | 0️⃣3️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @v2rayng_vpnrog | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | REALITY | @Capital_NET | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | REALITY | @flyv2ray | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @forwardv2ray | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @forwardv2ray | SE🇸🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @forwardv2ray | SE🇸🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @sarina_esmailzadeh | Donated | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | RU🇷🇺 | 0️⃣2️⃣",
@@ -248,16 +246,14 @@
                 "رایگان | REALITY | @reality_daily | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | REALITY | @reality_daily | RU🇷🇺 | 0️⃣2️⃣",
                 "رایگان | REALITY | @reality_daily | RU🇷🇺 | 0️⃣3️⃣",
-                "رایگان | REALITY | @frev2ray | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | REALITY | @vpn_xw | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @frev2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | REALITY | @V2rayCollector | LT🇱🇹 | 0️⃣3️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @v2rayng_vpnrog | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | REALITY | @Capital_NET | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | REALITY | @flyv2ray | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @forwardv2ray | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @forwardv2ray | SE🇸🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @forwardv2ray | SE🇸🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @sarina_esmailzadeh | Donated | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | RU🇷🇺 | 0️⃣2️⃣",
@@ -478,7 +474,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @frev2ray | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @frev2ray | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "v20.cuvr.cfd",
             "server_port": 2053,
@@ -510,34 +506,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @vpn_xw | DE🇩🇪 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "49.13.147.248",
-            "server_port": 443,
-            "uuid": "ItsDgNmt",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "k4.ae",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "hWCXkPKaTXgH2adJc-RoAW7aDGIzR8Sz5e3Wfcetbi8",
-                    "short_id": "2cf2982ce8d1"
-                }
             }
         },
         {
@@ -605,6 +573,76 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "168.119.173.156",
+            "server_port": 80,
+            "uuid": "f74c7816-e164-4301-e43e-950c56d19a82",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "datadoghq.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "bN01w6N1cHpw_3YWgFoEcJNr_ZFyfSenRZzWZQqTfW8",
+                    "short_id": "2f3b6e8b"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@V2ray_Alpha @V2ray_Alpha @V2ray_Alpha",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "49.12.114.141",
+            "server_port": 2053,
+            "uuid": "cf2703b0-14b5-4c41-b0e6-d29e155ed7c4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "account.zula.ir",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "GHHs_iVXqtoPvNNKYbFKB6RjZ_leRvhOzc8tNXSAdxg",
+                    "short_id": "14ae156a"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@mainV2ray,@mainV2ray,@mainV2ray,@mainV2ray,@mainV2ray,@mainV2ray,@mainV2ray,@mainV2ray,@mainV2ray",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
@@ -713,90 +751,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @forwardv2ray | SE🇸🇪 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "13.50.243.87",
-            "server_port": 3074,
-            "uuid": "f553d0ca-701d-4f95-90e9-2851d055291e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "coinmarketcap.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "gubT6LLsyhFFkYernPOeFxNg6Gz_njft1pSh3jLweRY",
-                    "short_id": "fe"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @forwardv2ray | SE🇸🇪 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "13.53.83.70",
-            "server_port": 3074,
-            "uuid": "f553d0ca-701d-4f95-90e9-2851d055291e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "coinmarketcap.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ya70El1k3p3BTjdSnk3UlZxJOUfzreB2Q64034CE92c",
-                    "short_id": "fe"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @forwardv2ray | SE🇸🇪 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "13.53.245.225",
-            "server_port": 3074,
-            "uuid": "59bc899b-e870-487c-85e0-feb70020575d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "coinmarketcap.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "t7VXZ_6nOQ6OZliDyuikmqswlv1M3uQ0obL8PFOgUXY",
-                    "short_id": "ed8a"
-                }
             }
         },
         {
@@ -4093,8 +4047,8 @@
             "tag": "رایگان | REALITY | @toomaj | Donated | JP🇯🇵 | 0️⃣1️⃣",
             "type": "vless",
             "server": "103.179.45.223",
-            "server_port": 443,
-            "uuid": "a0fe6b6a-96f4-4b0e-aaf1-5f876e921b02",
+            "server_port": 2058,
+            "uuid": "0928d0ac-ffb7-4146-be06-f4a47a34b0cc",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4104,7 +4058,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "pantercon.net",
+                "server_name": "theverge.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -4121,8 +4075,8 @@
             "tag": "رایگان | REALITY | @toomaj | Donated | JP🇯🇵 | 0️⃣2️⃣",
             "type": "vless",
             "server": "103.179.45.223",
-            "server_port": 4607,
-            "uuid": "140dc8ab-166a-4b5f-9ea6-b833a3b0e6cd",
+            "server_port": 8224,
+            "uuid": "064ec5d8-c952-4f5a-a33f-b08f151f4188",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4132,7 +4086,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "magicbus.ca",
+                "server_name": "mashable.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
