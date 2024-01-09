@@ -113,8 +113,7 @@
                 "US🇺🇸",
                 "NL🇳🇱",
                 "SE🇸🇪",
-                "RU🇷🇺",
-                "PL🇵🇱"
+                "RU🇷🇺"
             ]
         },
         {
@@ -122,10 +121,10 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | SE🇸🇪 | 0️⃣2️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣1️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -135,7 +134,8 @@
             "tag": "US🇺🇸",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -172,17 +172,17 @@
             "tolerance": 50
         },
         {
-            "tag": "PL🇵🇱",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
+            "tag": "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "154.7.179.11",
+            "server_port": 7777,
+            "method": "chacha20-ietf-poly1305",
+            "password": "39459633-d825-4778-bf72-175aa1ef3737",
+            "plugin": "",
+            "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "38.68.134.202",
             "server_port": 8091,
@@ -218,16 +218,6 @@
             "server_port": 12949,
             "method": "chacha20-ietf-poly1305",
             "password": "P2zxXPewlV3BlfqqYiSthvtLc",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "217.30.10.68",
-            "server_port": 9006,
-            "method": "aes-256-cfb",
-            "password": "FAdUvMJUq5vDgKEq",
             "plugin": "",
             "plugin_opts": ""
         },
