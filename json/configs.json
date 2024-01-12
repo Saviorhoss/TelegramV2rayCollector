@@ -6,9 +6,9 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/flyv2ray.jpg"
         },
         "type": "vless",
-        "config": "vless://953a3389-025f-422e-a075-d9982d4c0548@V2ray.motorcycles:2087?path=/&security=tls&encryption=none&host=SHHPROXY.snappfoodd.site&type=ws&sni=SHHPROXY.snappfoodd.site#رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 3.11,
-        "time": "2024-01-12 09:47:42"
+        "config": "vless://953a3389-025f-422e-a075-d9982d4c0548@V2ray.motorcycles:2087?path=/&security=tls&encryption=none&host=SHHPROXY.snappfoodd.site&type=ws&sni=SHHPROXY.snappfoodd.site#رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣1️⃣",
+        "ping": 233.02,
+        "time": "2024-01-12 10:43:24"
     },
     {
         "channel": {
@@ -18,19 +18,8 @@
         },
         "type": "vless",
         "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.18.189.219:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @FreakConfig | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 1.54,
-        "time": "2024-01-12 09:47:35"
-    },
-    {
-        "channel": {
-            "username": "FreakConfig",
-            "title": "V2ray | سرور کانفیگ رایگان",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/FreakConfig.jpg"
-        },
-        "type": "vless",
-        "config": "vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 1.56,
-        "time": "2024-01-12 09:47:35"
+        "ping": 5.3,
+        "time": "2024-01-12 10:43:20"
     },
     {
         "channel": {
@@ -40,8 +29,19 @@
         },
         "type": "vless",
         "config": "vless://d363e07d-510b-4ca0-85e9-fdba9a674885@172.64.28.12:2096?type=grpc&encryption=none&serviceName=@ZEDMODEON&security=tls&sni=join.biadg-zedmodeon-biatosh-zedmodeon-bia-zedmodeon.shop&alpn=h2,http/1.1&fp=chrome#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 160.22,
-        "time": "2024-01-12 09:47:35"
+        "ping": 97,
+        "time": "2024-01-12 10:43:19"
+    },
+    {
+        "channel": {
+            "username": "FreakConfig",
+            "title": "V2ray | سرور کانفیگ رایگان",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/FreakConfig.jpg"
+        },
+        "type": "vless",
+        "config": "vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣1️⃣",
+        "ping": 5.24,
+        "time": "2024-01-12 10:43:19"
     },
     {
         "channel": {
@@ -51,8 +51,8 @@
         },
         "type": "vless",
         "config": "vless://b6a90584-9a03-4f15-981b-4f99fa12842e@185.110.190.159:52748?security=none&encryption=none&headerType=none&type=tcp#رایگان | VLESS | @v2rayng_vpnrog | DE🇩🇪 | 0️⃣2️⃣",
-        "ping": 162.66,
-        "time": "2024-01-12 09:47:26"
+        "ping": 95.33,
+        "time": "2024-01-12 10:43:12"
     },
     {
         "channel": {
@@ -62,30 +62,8 @@
         },
         "type": "vless",
         "config": "vless://0c47c8fd-4966-4351-8bdd-88d46b4a8cd1@173.245.59.100:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=freakv22.tm-online.xyz#رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 1.43,
-        "time": "2024-01-12 09:47:25"
-    },
-    {
-        "channel": {
-            "username": "polproxy",
-            "title": "پروکسی ناب | فیلترشکن | سرور V2ray",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/polproxy.jpg"
-        },
-        "type": "vless",
-        "config": "vless://65a61ea9-c959-40a7-a1e3-31a0eb968c0c@104.31.16.84:2087?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Nima.Moienmusic.space#رایگان | VLESS | @polproxy | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 1.68,
-        "time": "2024-01-12 09:47:21"
-    },
-    {
-        "channel": {
-            "username": "polproxy",
-            "title": "پروکسی ناب | فیلترشکن | سرور V2ray",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/polproxy.jpg"
-        },
-        "type": "vless",
-        "config": "vless://60968315-97f0-4a31-8299-ec1ef57a8793@172.67.153.213:2087?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1,h3&fp=chrome&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Nima.Moienmusic.space#رایگان | VLESS | @polproxy | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 1.49,
-        "time": "2024-01-12 09:47:21"
+        "ping": 5.31,
+        "time": "2024-01-12 10:43:11"
     },
     {
         "channel": {
@@ -95,30 +73,30 @@
         },
         "type": "vless",
         "config": "vless://73120b6c-3248-4a54-e273-0759a2750bb5@190.93.245.101:8080?path=/&security=none&encryption=none&host=Ajab.Moienmusic.space&type=ws#رایگان | VLESS | @polproxy | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 1.6,
-        "time": "2024-01-12 09:47:21"
+        "ping": 5.45,
+        "time": "2024-01-12 10:43:08"
     },
     {
         "channel": {
-            "username": "VPNCLOP",
-            "title": "VPN CLOP",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/VPNCLOP.jpg"
+            "username": "polproxy",
+            "title": "پروکسی ناب | فیلترشکن | سرور V2ray",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/polproxy.jpg"
         },
         "type": "vless",
-        "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @VPNCLOP | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 1.57,
-        "time": "2024-01-12 09:47:16"
+        "config": "vless://60968315-97f0-4a31-8299-ec1ef57a8793@172.67.153.213:2087?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1,h3&fp=chrome&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Nima.Moienmusic.space#رایگان | VLESS | @polproxy | US🇺🇸 | 0️⃣2️⃣",
+        "ping": 5.23,
+        "time": "2024-01-12 10:43:08"
     },
     {
         "channel": {
-            "username": "VPNCLOP",
-            "title": "VPN CLOP",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/VPNCLOP.jpg"
+            "username": "polproxy",
+            "title": "پروکسی ناب | فیلترشکن | سرور V2ray",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/polproxy.jpg"
         },
         "type": "vless",
-        "config": "vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#رایگان | VLESS | @VPNCLOP | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 1.59,
-        "time": "2024-01-12 09:47:16"
+        "config": "vless://65a61ea9-c959-40a7-a1e3-31a0eb968c0c@104.31.16.84:2087?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Nima.Moienmusic.space#رایگان | VLESS | @polproxy | US🇺🇸 | 0️⃣1️⃣",
+        "ping": 5.21,
+        "time": "2024-01-12 10:43:07"
     },
     {
         "channel": {
@@ -128,8 +106,30 @@
         },
         "type": "vless",
         "config": "vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:443?path=/?ed=2048&security=tls&encryption=none&host=fkhamnei.kosnanatfilterchi.eu.org&type=ws&sni=fkhamnei.kosnanatfilterchi.eu.org#رایگان | VLESS | @VPNCLOP | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 1.61,
-        "time": "2024-01-12 09:47:15"
+        "ping": 5.31,
+        "time": "2024-01-12 10:43:03"
+    },
+    {
+        "channel": {
+            "username": "VPNCLOP",
+            "title": "VPN CLOP",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/VPNCLOP.jpg"
+        },
+        "type": "vless",
+        "config": "vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#رایگان | VLESS | @VPNCLOP | RELAY🚩 | 0️⃣2️⃣",
+        "ping": 5.22,
+        "time": "2024-01-12 10:43:03"
+    },
+    {
+        "channel": {
+            "username": "VPNCLOP",
+            "title": "VPN CLOP",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/VPNCLOP.jpg"
+        },
+        "type": "vless",
+        "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @VPNCLOP | US🇺🇸 | 0️⃣3️⃣",
+        "ping": 5.23,
+        "time": "2024-01-12 10:43:03"
     },
     {
         "channel": {
@@ -138,20 +138,20 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/Hope_Net.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxMDQuMjEuOTEuNzMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFkZW5jMzUuZml4ZWRsZm9hdC50b3AiLCJpZCI6IjQ1ZjYzZTkyLWY3ODItNGNhYy04NGI4LWU2MWNiNWE1YmZkMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJhZGVuYzM1LmZpeGVkbGZvYXQudG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBIb3BlX05ldCB8IFJFTEFZXHVkODNkXHVkZWE5IHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMifQ==",
-        "ping": 205.84,
-        "time": "2024-01-12 09:47:14"
+        "config": "vmess://eyJhZGQiOiIxMDQuMjEuOTEuNzMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFkZW5jMzUuZml4ZWRsZm9hdC50b3AiLCJpZCI6IjQ1ZjYzZTkyLWY3ODItNGNhYy04NGI4LWU2MWNiNWE1YmZkMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJhZGVuYzM1LmZpeGVkbGZvYXQudG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBIb3BlX05ldCB8IFJFTEFZXHVkODNkXHVkZWE5IHwgMFx1ZmUwZlx1MjBlMzJcdWZlMGZcdTIwZTMifQ==",
+        "ping": 264.41,
+        "time": "2024-01-12 10:43:02"
     },
     {
         "channel": {
-            "username": "yaney_01",
-            "title": "Yaney科技频道",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/yaney_01.jpg"
+            "username": "Hope_Net",
+            "title": "🕊 Hope Net",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/Hope_Net.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAeWFuZXlfMDEgfCBVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwiYWRkIjoiMTcyLjY0LjE0Ni4yMjEiLCJwb3J0IjoiNDQzIiwiaWQiOiJmODE0NDdiMi01NDY2LTQ4M2MtYmY4Ni1lZjk4MzJiMzg5ZGQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoid3d3LmFwcGxlZm9vZHMuZ2F5IiwicGF0aCI6IlwvZjgxNDQ3YjItNTQ2Ni00ODNjLWJmODYtZWY5ODMyYjM4OWRkLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiIn0=",
-        "ping": 2.2,
-        "time": "2024-01-12 09:47:09"
+        "config": "vmess://eyJhZGQiOiIxNTQuOTIuOS4xODYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImRkNDFiNWNiLWI3MmUtNGE4Yy1jNzVhLTNlY2M5MjhkNmViMyIsIm5ldCI6IndzIiwicGF0aCI6IlwvYmx1ZSIsInBvcnQiOjgwLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBASG9wZV9OZXQgfCBIS1x1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIn0=",
+        "ping": 5.24,
+        "time": "2024-01-12 10:43:02"
     },
     {
         "channel": {
@@ -161,8 +161,8 @@
         },
         "type": "vmess",
         "config": "vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAeWFuZXlfMDEgfCBVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDBcdWZlMGZcdTIwZTMzXHVmZTBmXHUyMGUzIiwiYWRkIjoiOTIuMzguMTM1LjI3IiwicG9ydCI6IjQ0MyIsImlkIjoiZjgxNDQ3YjItNTQ2Ni00ODNjLWJmODYtZWY5ODMyYjM4OWRkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Ind3dy5hcHBsZWZvb2RzLmdheSIsInBhdGgiOiJcL2Y4MTQ0N2IyLTU0NjYtNDgzYy1iZjg2LWVmOTgzMmIzODlkZC12bWVzcyIsInRscyI6InRscyIsInNuaSI6IiJ9",
-        "ping": 2.03,
-        "time": "2024-01-12 09:47:09"
+        "ping": 6.13,
+        "time": "2024-01-12 10:42:48"
     },
     {
         "channel": {
@@ -171,9 +171,20 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/yaney_01.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAeWFuZXlfMDEgfCBSRUxBWVx1ZDgzZFx1ZGVhOSB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwiYWRkIjoiMTA0LjE2LjQwLjIyIiwicG9ydCI6IjQ0MyIsImlkIjoiZjgxNDQ3YjItNTQ2Ni00ODNjLWJmODYtZWY5ODMyYjM4OWRkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Ind3dy5hcHBsZWZvb2RzLmdheSIsInBhdGgiOiJcL2Y4MTQ0N2IyLTU0NjYtNDgzYy1iZjg2LWVmOTgzMmIzODlkZC12bWVzcyIsInRscyI6InRscyIsInNuaSI6IiJ9",
-        "ping": 302.85,
-        "time": "2024-01-12 09:47:08"
+        "config": "vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAeWFuZXlfMDEgfCBVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwiYWRkIjoiMTA0LjE2LjQwLjIyIiwicG9ydCI6IjQ0MyIsImlkIjoiZjgxNDQ3YjItNTQ2Ni00ODNjLWJmODYtZWY5ODMyYjM4OWRkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Ind3dy5hcHBsZWZvb2RzLmdheSIsInBhdGgiOiJcL2Y4MTQ0N2IyLTU0NjYtNDgzYy1iZjg2LWVmOTgzMmIzODlkZC12bWVzcyIsInRscyI6InRscyIsInNuaSI6IiJ9",
+        "ping": 308.47,
+        "time": "2024-01-12 10:42:48"
+    },
+    {
+        "channel": {
+            "username": "yaney_01",
+            "title": "Yaney科技频道",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/yaney_01.jpg"
+        },
+        "type": "vmess",
+        "config": "vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAeWFuZXlfMDEgfCBVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwiYWRkIjoiMTcyLjY0LjE0Ni4yMjEiLCJwb3J0IjoiNDQzIiwiaWQiOiJmODE0NDdiMi01NDY2LTQ4M2MtYmY4Ni1lZjk4MzJiMzg5ZGQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoid3d3LmFwcGxlZm9vZHMuZ2F5IiwicGF0aCI6IlwvZjgxNDQ3YjItNTQ2Ni00ODNjLWJmODYtZWY5ODMyYjM4OWRkLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiIn0=",
+        "ping": 5.75,
+        "time": "2024-01-12 10:42:48"
     },
     {
         "channel": {
@@ -182,31 +193,9 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/yaney_01.jpg"
         },
         "type": "trojan",
-        "config": "trojan://2d8a021a-0ba2-4a3c-bbd1-f63b743c2920@a25.zgc.su:567#رایگان | TROJAN | @yaney_01 | SG🇸🇬 | 0️⃣3️⃣",
-        "ping": 394.24,
-        "time": "2024-01-12 09:47:07"
-    },
-    {
-        "channel": {
-            "username": "yaney_01",
-            "title": "Yaney科技频道",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/yaney_01.jpg"
-        },
-        "type": "trojan",
-        "config": "trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my02.trojanyyds.xyz:443#رایگان | TROJAN | @yaney_01 | HK🇭🇰 | 0️⃣2️⃣",
-        "ping": 309.55,
-        "time": "2024-01-12 09:47:06"
-    },
-    {
-        "channel": {
-            "username": "proxystore11",
-            "title": "ڪانفیگ‌کده",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/proxystore11.jpg"
-        },
-        "type": "vless",
-        "config": "vless://60509aa8-9c2f-4425-a7d4-873a43ff398f@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#رایگان | VLESS | @proxystore11 | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 299.49,
-        "time": "2024-01-12 09:47:03"
+        "config": "trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my02.trojanyyds.xyz:443#رایگان | TROJAN | @yaney_01 | JP🇯🇵 | 0️⃣1️⃣",
+        "ping": 414.85,
+        "time": "2024-01-12 10:42:47"
     },
     {
         "channel": {
@@ -216,19 +205,19 @@
         },
         "type": "vless",
         "config": "vless://00437b8b-db9a-4662-b95c-af13dcba2924@proxystore11.kodaksho.eu.org:2083?type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1&sni=km.proxystore11.site#رایگان | VLESS | @proxystore11 | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 3.2,
-        "time": "2024-01-12 09:47:03"
+        "ping": 18.32,
+        "time": "2024-01-12 10:42:44"
     },
     {
         "channel": {
-            "username": "VmessProtocol",
-            "title": "V2ray Vless | فیلترشکن | سرور اختصاصی",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/VmessProtocol.jpg"
+            "username": "proxystore11",
+            "title": "ڪانفیگ‌کده",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/proxystore11.jpg"
         },
         "type": "vless",
-        "config": "vless://SvnTeam@mtn.vpnprosec.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=gmV2raygmm.svnteamfree.com#رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 2.07,
-        "time": "2024-01-12 09:46:44"
+        "config": "vless://60509aa8-9c2f-4425-a7d4-873a43ff398f@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#رایگان | VLESS | @proxystore11 | RELAY🚩 | 0️⃣1️⃣",
+        "ping": 134.55,
+        "time": "2024-01-12 10:42:44"
     },
     {
         "channel": {
@@ -238,8 +227,8 @@
         },
         "type": "vless",
         "config": "vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@104.25.254.188:2096?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=forward333.maryam1500.top#رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 1.48,
-        "time": "2024-01-12 09:46:44"
+        "ping": 5.24,
+        "time": "2024-01-12 10:42:20"
     },
     {
         "channel": {
@@ -248,9 +237,20 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/VmessProtocol.jpg"
         },
         "type": "vless",
-        "config": "vless://b634a1ea-5cd8-4a20-981c-a0c8b6cf7371@zula.ir:443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 1.94,
-        "time": "2024-01-12 09:46:44"
+        "config": "vless://SvnTeam@mtn.vpnprosec.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=gmV2raygmm.svnteamfree.com#رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣2️⃣",
+        "ping": 6.01,
+        "time": "2024-01-12 10:42:20"
+    },
+    {
+        "channel": {
+            "username": "VmessProtocol",
+            "title": "V2ray Vless | فیلترشکن | سرور اختصاصی",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/VmessProtocol.jpg"
+        },
+        "type": "vless",
+        "config": "vless://b634a1ea-5cd8-4a20-981c-a0c8b6cf7371@zula.ir:443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
+        "ping": 6.05,
+        "time": "2024-01-12 10:42:19"
     },
     {
         "channel": {
@@ -260,8 +260,19 @@
         },
         "type": "vless",
         "config": "vless://3cd156fa-94c2-4ea9-ac38-dbf358f17511@104.25.254.88:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=oo.mmd111.sbs#رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 1.45,
-        "time": "2024-01-12 09:46:31"
+        "ping": 5.17,
+        "time": "2024-01-12 10:41:45"
+    },
+    {
+        "channel": {
+            "username": "vless_vmess",
+            "title": "vless_vmess",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/vless_vmess.jpg"
+        },
+        "type": "vless",
+        "config": "vless://81db6dec-de32-dcbe-3f89-59e3a0cdecf7@l38.darklord.life:443?type=tcp&security=none&headerType=http&host=divarcdn.com&path=/#رایگان | VLESS | @vless_vmess | IR🇮🇷 | 0️⃣1️⃣",
+        "ping": 198.16,
+        "time": "2024-01-12 10:41:43"
     },
     {
         "channel": {
@@ -271,8 +282,8 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoiam9pbi1zaG8uZnJlZXYyYWxwaGEuY2ZkIiwiaWQiOiJUZWxlZ3JhbS1WMnJheV9hbHBoYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAdjJyYXkxX25nIHwgUkVMQVlcdWQ4M2RcdWRlYTkgfCAwXHVmZTBmXHUyMGUzM1x1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-        "ping": 2.14,
-        "time": "2024-01-12 09:46:16"
+        "ping": 15.1,
+        "time": "2024-01-12 10:41:41"
     },
     {
         "channel": {
@@ -282,19 +293,8 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiIxNzIuNjYuNDYuNTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiIiLCJpZCI6IjA4ZWM2YTA2LThjMTUtNDA2OS1hNzgxLThjNzI1YTMwYjdlNyIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6Ilx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiB8IFZNRVNTIHwgQHYycmF5MV9uZyB8IERFXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIHwgMFx1ZmUwZlx1MjBlMzJcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoibXkudG9vdGVycy5pciIsInRscyI6InRscyIsInR5cGUiOiJtdWx0aSIsInYiOiIyIn0=",
-        "ping": 745.89,
-        "time": "2024-01-12 09:46:16"
-    },
-    {
-        "channel": {
-            "username": "v2ray1_ng",
-            "title": "V2RayNg & Napsternet V",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/v2ray1_ng.jpg"
-        },
-        "type": "vless",
-        "config": "vless://6c859c60-37cf-4e97-a8f6-97f31ed83745@190.93.247.155:8080?path=/&security=none&encryption=none&host=Digi-V2rayng-ConneCtion.Digiv2ray.shop&type=ws#رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 2.63,
-        "time": "2024-01-12 09:46:14"
+        "ping": 507.69,
+        "time": "2024-01-12 10:41:41"
     },
     {
         "channel": {
@@ -304,8 +304,19 @@
         },
         "type": "vless",
         "config": "vless://498ba4c9-aba7-4cfa-8414-ecf5b110e257@173.245.59.100:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=dm.ipV2Ray.shop#رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 1.47,
-        "time": "2024-01-12 09:46:14"
+        "ping": 5.18,
+        "time": "2024-01-12 10:41:40"
+    },
+    {
+        "channel": {
+            "username": "v2ray1_ng",
+            "title": "V2RayNg & Napsternet V",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/v2ray1_ng.jpg"
+        },
+        "type": "vless",
+        "config": "vless://6c859c60-37cf-4e97-a8f6-97f31ed83745@190.93.247.155:8080?path=/&security=none&encryption=none&host=Digi-V2rayng-ConneCtion.Digiv2ray.shop&type=ws#رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣2️⃣",
+        "ping": 5.4,
+        "time": "2024-01-12 10:41:40"
     },
     {
         "channel": {
@@ -315,8 +326,19 @@
         },
         "type": "vless",
         "config": "vless://0c47c8fd-4966-4351-8bdd-88d46b4a8cd1@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=freakv22.tm-online.xyz#رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 1.71,
-        "time": "2024-01-12 09:46:14"
+        "ping": 5.57,
+        "time": "2024-01-12 10:41:40"
+    },
+    {
+        "channel": {
+            "username": "forwardv2ray",
+            "title": "FORWARDV2RAY",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
+        },
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImpvaW4tc2hvLmZyZWV2MmFscGhhLmNmZCIsImlkIjoiVGVsZWdyYW0tVjJyYXlfYWxwaGEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9lZD0yMDQ4IiwicG9ydCI6IjgwODAiLCJwcyI6Ilx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiB8IFZNRVNTIHwgQGZvcndhcmR2MnJheSB8IFJFTEFZXHVkODNkXHVkZWE5IHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
+        "ping": 5.52,
+        "time": "2024-01-12 10:41:30"
     },
     {
         "channel": {
@@ -326,8 +348,8 @@
         },
         "type": "vless",
         "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.190.52:443?path=/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=963c1f6a-8485-443a-a386-4e6d34a64dc8.mrvi.online&fp=chrome&type=ws&sni=963C1F6A-8485-443a-a386-4E6D34A64dc8.MRvi.ONline#رایگان | VLESS | @Qv2rayDONATED | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 1.98,
-        "time": "2024-01-12 09:45:59"
+        "ping": 5.44,
+        "time": "2024-01-12 10:41:22"
     },
     {
         "channel": {
@@ -337,8 +359,8 @@
         },
         "type": "vless",
         "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.13.60:443?path=/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=963c1f6a-8485-443a-a386-4e6d34a64dc8.mrvi.online&fp=chrome&type=ws&sni=963C1F6A-8485-443a-a386-4E6D34A64dc8.MRvi.ONline#رایگان | VLESS | @Qv2rayDONATED | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 1.66,
-        "time": "2024-01-12 09:45:59"
+        "ping": 6.76,
+        "time": "2024-01-12 10:41:21"
     },
     {
         "channel": {
@@ -348,8 +370,8 @@
         },
         "type": "vless",
         "config": "vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#رایگان | VLESS | @Proxy_PJ | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 170.31,
-        "time": "2024-01-12 09:45:54"
+        "ping": 111.1,
+        "time": "2024-01-12 10:41:18"
     },
     {
         "channel": {
@@ -358,9 +380,9 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/Proxy_PJ.jpg"
         },
         "type": "vless",
-        "config": "vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#رایگان | VLESS | @Proxy_PJ | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 169.88,
-        "time": "2024-01-12 09:45:54"
+        "config": "vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#رایگان | VLESS | @Proxy_PJ | US🇺🇸 | 0️⃣2️⃣",
+        "ping": 112.35,
+        "time": "2024-01-12 10:41:18"
     },
     {
         "channel": {
@@ -370,8 +392,8 @@
         },
         "type": "vless",
         "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @Proxy_PJ | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 2.28,
-        "time": "2024-01-12 09:45:53"
+        "ping": 5.81,
+        "time": "2024-01-12 10:41:18"
     },
     {
         "channel": {
@@ -380,9 +402,9 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/ServerNett.jpg"
         },
         "type": "vless",
-        "config": "vless://8b6c43de-4413-4ef2-8017-373a1a91ba0a@join2.servernet.cfd:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=join2.servernet.cfd#رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 192.51,
-        "time": "2024-01-12 09:45:52"
+        "config": "vless://5de9a360-f3ca-44d1-b0b3-afaf88dd88e6@join11.servernet.cfd:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=join11.servernet.cfd#رایگان | VLESS | @ServerNett | US🇺🇸 | 0️⃣1️⃣",
+        "ping": 110.18,
+        "time": "2024-01-12 10:41:17"
     },
     {
         "channel": {
@@ -392,8 +414,8 @@
         },
         "type": "vless",
         "config": "vless://93261540-726d-4e69-b3a5-21125486d654@join6.servernet.cfd:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=join6.servernet.cfd#رایگان | VLESS | @ServerNett | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 151.98,
-        "time": "2024-01-12 09:45:52"
+        "ping": 20.61,
+        "time": "2024-01-12 10:41:17"
     },
     {
         "channel": {
@@ -402,9 +424,9 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/ServerNett.jpg"
         },
         "type": "vless",
-        "config": "vless://5de9a360-f3ca-44d1-b0b3-afaf88dd88e6@join11.servernet.cfd:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=join11.servernet.cfd#رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 144.76,
-        "time": "2024-01-12 09:45:52"
+        "config": "vless://8b6c43de-4413-4ef2-8017-373a1a91ba0a@join2.servernet.cfd:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=join2.servernet.cfd#رایگان | VLESS | @ServerNett | US🇺🇸 | 0️⃣3️⃣",
+        "ping": 27.7,
+        "time": "2024-01-12 10:41:17"
     },
     {
         "channel": {
@@ -413,9 +435,9 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/ShadowProxy66.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiJ1czJlLXByZXZlbnRpbnRlbnQudjJmcmVldnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyYThhMTBmYi05Y2EzLTM2N2UtYTIzNC1jZjA5Zjg0MWJlNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3YxMDMtdWRramRzM25heSIsInBvcnQiOiI4MCIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAU2hhZG93UHJveHk2NiB8IFJFTEFZXHVkODNkXHVkZWE5IHwgMFx1ZmUwZlx1MjBlMzJcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "ping": 25.16,
-        "time": "2024-01-12 09:45:50"
+        "config": "vmess://eyJhZGQiOiJ1czJlLXByZXZlbnRpbnRlbnQudjJmcmVldnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyYThhMTBmYi05Y2EzLTM2N2UtYTIzNC1jZjA5Zjg0MWJlNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3YxMDMtdWRramRzM25heSIsInBvcnQiOiI4MCIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAU2hhZG93UHJveHk2NiB8IFVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMFx1ZmUwZlx1MjBlMzJcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
+        "ping": 93.92,
+        "time": "2024-01-12 10:41:15"
     },
     {
         "channel": {
@@ -425,8 +447,8 @@
         },
         "type": "vless",
         "config": "vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 1.62,
-        "time": "2024-01-12 09:45:49"
+        "ping": 5.24,
+        "time": "2024-01-12 10:41:10"
     },
     {
         "channel": {
@@ -436,8 +458,8 @@
         },
         "type": "vless",
         "config": "vless://4e619e5f-6319-4afd-9d9f-57258ed9d373@bia-to1.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=/#رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 6.72,
-        "time": "2024-01-12 09:45:24"
+        "ping": 37.38,
+        "time": "2024-01-12 10:41:03"
     },
     {
         "channel": {
@@ -447,8 +469,8 @@
         },
         "type": "vless",
         "config": "vless://4e619e5f-6319-4afd-9d9f-57258ed9d373@bia-to2.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=/#رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 14.21,
-        "time": "2024-01-12 09:45:24"
+        "ping": 25.36,
+        "time": "2024-01-12 10:41:02"
     },
     {
         "channel": {
@@ -458,19 +480,8 @@
         },
         "type": "vless",
         "config": "vless://4e619e5f-6319-4afd-9d9f-57258ed9d373@bia-to3.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=/#رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 18.04,
-        "time": "2024-01-12 09:45:23"
-    },
-    {
-        "channel": {
-            "username": "ShadowSocks_s",
-            "title": "ShadowSocks ⚡️ شدوساکس 💚🤍❤️",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/ShadowSocks_s.jpg"
-        },
-        "type": "vless",
-        "config": "vless://3a06aa7b-d3c0-4635-8155-4887a584edd6@all.vpncustomize.cam:443?mode=@ShadowSocks_S@ShadowSocks_S#رایگان | VLESS | @ShadowSocks_s | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 3.64,
-        "time": "2024-01-12 09:45:20"
+        "ping": 31.85,
+        "time": "2024-01-12 10:41:02"
     },
     {
         "channel": {
@@ -480,8 +491,8 @@
         },
         "type": "vless",
         "config": "vless://3a06aa7b-d3c0-4635-8155-4887a584edd6@all.vpncustomize.cam:443?mode=@ShadowSocks_S@ShadowSocks_S#رایگان | VLESS | @ShadowSocks_s | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 9.18,
-        "time": "2024-01-12 09:45:20"
+        "ping": 58.64,
+        "time": "2024-01-12 10:40:59"
     },
     {
         "channel": {
@@ -490,9 +501,20 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/ShadowSocks_s.jpg"
         },
         "type": "vless",
-        "config": "vless://3a06aa7b-d3c0-4635-8155-4887a584edd6@all.vpncustomize.cam:443?mode=@ShadowSocks_S@ShadowSocks_S#رایگان | VLESS | @ShadowSocks_s | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 14.84,
-        "time": "2024-01-12 09:45:20"
+        "config": "vless://3a06aa7b-d3c0-4635-8155-4887a584edd6@all.vpncustomize.cam:443?mode=@ShadowSocks_S@ShadowSocks_S#رایگان | VLESS | @ShadowSocks_s | US🇺🇸 | 0️⃣1️⃣",
+        "ping": 61.42,
+        "time": "2024-01-12 10:40:59"
+    },
+    {
+        "channel": {
+            "username": "ShadowSocks_s",
+            "title": "ShadowSocks ⚡️ شدوساکس 💚🤍❤️",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/ShadowSocks_s.jpg"
+        },
+        "type": "vless",
+        "config": "vless://3a06aa7b-d3c0-4635-8155-4887a584edd6@all.vpncustomize.cam:443?mode=@ShadowSocks_S@ShadowSocks_S#رایگان | VLESS | @ShadowSocks_s | RELAY🚩 | 0️⃣3️⃣",
+        "ping": 27.72,
+        "time": "2024-01-12 10:40:59"
     },
     {
         "channel": {
@@ -502,8 +524,8 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiIxMDQuMTguMjAyLjIxMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid2ViLXdzLmRycy5sb2wiLCJpZCI6IlRlbGVncmFtLVYycmF5X2FscGhhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAcHJyb2ZpbGVfcHVycGxlIHwgUkVMQVlcdWQ4M2RcdWRlYTkgfCAwXHVmZTBmXHUyMGUzM1x1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-        "ping": 1.99,
-        "time": "2024-01-12 09:45:18"
+        "ping": 5.68,
+        "time": "2024-01-12 10:40:58"
     },
     {
         "channel": {
@@ -513,8 +535,8 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiIxMDQuMjEuMjAuMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3ZWItd3MuZHJzLmxvbCIsImlkIjoiVGVsZWdyYW0tVjJyYXlfYWxwaGEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9lZD0yMDQ4IiwicG9ydCI6IjIwODYiLCJwcyI6Ilx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiB8IFZNRVNTIHwgQHBycm9maWxlX3B1cnBsZSB8IFJFTEFZXHVkODNkXHVkZWE5IHwgMFx1ZmUwZlx1MjBlMzJcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "ping": 2.04,
-        "time": "2024-01-12 09:45:18"
+        "ping": 6.07,
+        "time": "2024-01-12 10:40:58"
     },
     {
         "channel": {
@@ -524,8 +546,8 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid2ViLXdzLmRycy5sb2wiLCJpZCI6IlRlbGVncmFtLVYycmF5X2FscGhhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8/ZWQ9MjA0OCIsInBvcnQiOiI4MDgwIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBwcnJvZmlsZV9wdXJwbGUgfCBSRUxBWVx1ZDgzZFx1ZGVhOSB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-        "ping": 9.5,
-        "time": "2024-01-12 09:45:18"
+        "ping": 22.23,
+        "time": "2024-01-12 10:40:58"
     },
     {
         "channel": {
@@ -535,8 +557,8 @@
         },
         "type": "vless",
         "config": "vless://109da3aa-afca-4819-826c-bc8de2dc65d2@skk.moe:8880?path=/?ed=2048&security=none&encryption=none&host=worker-odd-bonus-bf32.voydepofyu.workers.dev&type=ws#رایگان | VLESS | @prrofile_purple | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 308.96,
-        "time": "2024-01-12 09:45:16"
+        "ping": 140.96,
+        "time": "2024-01-12 10:40:57"
     },
     {
         "channel": {
@@ -545,20 +567,9 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/oneclickvpnkeys.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxMDQuMTkuMTgwLjE2OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2luZ29maWx0ZXIyLmhhbWVkZ2Vlay5zYnMiLCJpZCI6ImIzNmU5M2I4LTIxYjQtNDQ5NS1hYzgxLTAxMDlmNjVjYjFhZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIwODMiLCJwcyI6Ilx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiB8IFZNRVNTIHwgQG9uZWNsaWNrdnBua2V5cyB8IFJFTEFZXHVkODNkXHVkZWE5IHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoia2luZ29maWx0ZXIyLmhhbWVkZ2Vlay5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-        "ping": 17.3,
-        "time": "2024-01-12 09:45:13"
-    },
-    {
-        "channel": {
-            "username": "oneclickvpnkeys",
-            "title": "OneClick VPN🔑v2rayNG🔑Matsuri🔑SagerNet🔑",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/oneclickvpnkeys.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjE1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoiam9pbi1zaG8tdG8uZnJlZXYyYWxwaGEuY2ZkIiwiaWQiOiJUZWxlZ3JhbS1WMnJheV9hbHBoYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAb25lY2xpY2t2cG5rZXlzIHwgVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-        "ping": 1.94,
-        "time": "2024-01-12 09:45:13"
+        "config": "vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjE1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoiam9pbi1zaG8tdG8uZnJlZXYyYWxwaGEuY2ZkIiwiaWQiOiJUZWxlZ3JhbS1WMnJheV9hbHBoYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAb25lY2xpY2t2cG5rZXlzIHwgUkVMQVlcdWQ4M2RcdWRlYTkgfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+        "ping": 5.78,
+        "time": "2024-01-12 10:40:55"
     },
     {
         "channel": {
@@ -568,41 +579,19 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiI0OS4xMy4xOTMuNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRpc2NvcmQuZ2ciLCJpZCI6IjQ2NzE0NmJkLTVlODgtNGZjMy1hYTI5LWNkOGY2YTQzNmY2MSIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI4ODgwIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBvbmVjbGlja3ZwbmtleXMgfCBSRUxBWVx1ZDgzZFx1ZGVhOSB8IDBcdWZlMGZcdTIwZTMzXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==",
-        "ping": 72.27,
-        "time": "2024-01-12 09:45:13"
+        "ping": 13.59,
+        "time": "2024-01-12 10:40:55"
     },
     {
         "channel": {
-            "username": "forwardv2ray",
-            "title": "FORWARDV2RAY",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
+            "username": "oneclickvpnkeys",
+            "title": "OneClick VPN🔑v2rayNG🔑Matsuri🔑SagerNet🔑",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/oneclickvpnkeys.jpg"
         },
-        "type": "vless",
-        "config": "vless://618fb54a-54aa-4534-9b86-a56fb3c3b2d3@2join.bede.vmessorg.info:80?type=ws&security=none&path=/&host=biato.channel1.vmessorg.info#رایگان | VLESS | @forwardv2ray | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 14.33,
-        "time": "2024-01-12 09:45:12"
-    },
-    {
-        "channel": {
-            "username": "V2rayNGn",
-            "title": "v2rayNG | Proxy | رفع فیلتر",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/V2rayNGn.jpg"
-        },
-        "type": "vless",
-        "config": "vless://c7c4d312-afb0-4b78-a8cb-45e2968f5cd0@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE&sni=KingSpeedV2rayng.VPNCUSTOMIZE.tech#رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 3.72,
-        "time": "2024-01-12 09:45:00"
-    },
-    {
-        "channel": {
-            "username": "V2rayNGn",
-            "title": "v2rayNG | Proxy | رفع فیلتر",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/V2rayNGn.jpg"
-        },
-        "type": "vless",
-        "config": "vless://c7c4d312-afb0-4b78-a8cb-45e2968f5cd0@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=‌@VPNCUSTOMIZE&sni=FreaV2rayng.VPNCUSTOMIZE.tech#رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 3.84,
-        "time": "2024-01-12 09:45:00"
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiIxMDQuMTkuMTgwLjE2OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2luZ29maWx0ZXIyLmhhbWVkZ2Vlay5zYnMiLCJpZCI6ImIzNmU5M2I4LTIxYjQtNDQ5NS1hYzgxLTAxMDlmNjVjYjFhZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIwODMiLCJwcyI6Ilx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiB8IFZNRVNTIHwgQG9uZWNsaWNrdnBua2V5cyB8IFVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoia2luZ29maWx0ZXIyLmhhbWVkZ2Vlay5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+        "ping": 22.75,
+        "time": "2024-01-12 10:40:54"
     },
     {
         "channel": {
@@ -612,19 +601,30 @@
         },
         "type": "vless",
         "config": "vless://c7c4d312-afb0-4b78-a8cb-45e2968f5cd0@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=FreeV2rayng.VPNCUSTOMIZE.tech#رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 3.36,
-        "time": "2024-01-12 09:45:00"
+        "ping": 7.13,
+        "time": "2024-01-12 10:40:40"
     },
     {
         "channel": {
-            "username": "ProxyForOpeta",
-            "title": "Proxy of opeta",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/ProxyForOpeta.jpg"
+            "username": "V2rayNGn",
+            "title": "v2rayNG | Proxy | رفع فیلتر",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/V2rayNGn.jpg"
         },
         "type": "vless",
-        "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@aw--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @ProxyForOpeta | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 28.88,
-        "time": "2024-01-12 09:44:59"
+        "config": "vless://c7c4d312-afb0-4b78-a8cb-45e2968f5cd0@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=‌@VPNCUSTOMIZE&sni=FreaV2rayng.VPNCUSTOMIZE.tech#رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣2️⃣",
+        "ping": 7.44,
+        "time": "2024-01-12 10:40:40"
+    },
+    {
+        "channel": {
+            "username": "V2rayNGn",
+            "title": "v2rayNG | Proxy | رفع فیلتر",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/V2rayNGn.jpg"
+        },
+        "type": "vless",
+        "config": "vless://c7c4d312-afb0-4b78-a8cb-45e2968f5cd0@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE&sni=KingSpeedV2rayng.VPNCUSTOMIZE.tech#رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣1️⃣",
+        "ping": 7.34,
+        "time": "2024-01-12 10:40:39"
     },
     {
         "channel": {
@@ -634,8 +634,8 @@
         },
         "type": "vless",
         "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@tw--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @ProxyForOpeta | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 5.94,
-        "time": "2024-01-12 09:44:59"
+        "ping": 33.25,
+        "time": "2024-01-12 10:40:30"
     },
     {
         "channel": {
@@ -644,9 +644,20 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/ProxyForOpeta.jpg"
         },
         "type": "vless",
-        "config": "vless://0c51f885-7ef1-4df2-a1ca-82ea2df5e6a8@test.ez0535.sbs:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=server5.mahsa0535.sbs#رایگان | VLESS | @ProxyForOpeta | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 60.89,
-        "time": "2024-01-12 09:44:59"
+        "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@aw--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @ProxyForOpeta | RELAY🚩 | 0️⃣2️⃣",
+        "ping": 34.69,
+        "time": "2024-01-12 10:40:29"
+    },
+    {
+        "channel": {
+            "username": "ProxyForOpeta",
+            "title": "Proxy of opeta",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/ProxyForOpeta.jpg"
+        },
+        "type": "vless",
+        "config": "vless://0c51f885-7ef1-4df2-a1ca-82ea2df5e6a8@test.ez0535.sbs:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=server5.mahsa0535.sbs#رایگان | VLESS | @ProxyForOpeta | RELAY🚩 | 0️⃣1️⃣",
+        "ping": 26.85,
+        "time": "2024-01-12 10:40:29"
     },
     {
         "channel": {
@@ -655,20 +666,9 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/iP_CF.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxMDMuMTU5LjIwNi4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMmU1MTFiMC03ZGVmLTRlMWItZDIzOC02Y2I1MzkxYjJlM2YiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIzMTk0NSIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAaVBfQ0YgfCBUV1x1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmYyB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-        "ping": 179.08,
-        "time": "2024-01-12 09:44:35"
-    },
-    {
-        "channel": {
-            "username": "iP_CF",
-            "title": "| IP_CF | Channel",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/iP_CF.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiJoazEud2VucGJsb2cuYnV6eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaGsxLndlbnBibG9nLmJ1enoiLCJpZCI6IjE5ODI3MjQzLWZhZTEtNDJhZS1hNDk0LTAxNTNkYmYwN2RlZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvYmFzZU9uIiwicG9ydCI6IjQ0MyIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAaVBfQ0YgfCBVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6ImhrMS53ZW5wYmxvZy5idXp6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "ping": 274.75,
-        "time": "2024-01-12 09:44:34"
+        "config": "vmess://eyJhZGQiOiJoazEud2VucGJsb2cuYnV6eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaGsxLndlbnBibG9nLmJ1enoiLCJpZCI6IjE5ODI3MjQzLWZhZTEtNDJhZS1hNDk0LTAxNTNkYmYwN2RlZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvYmFzZU9uIiwicG9ydCI6IjQ0MyIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAaVBfQ0YgfCBSRUxBWVx1ZDgzZFx1ZGVhOSB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6ImhrMS53ZW5wYmxvZy5idXp6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
+        "ping": 179.67,
+        "time": "2024-01-12 10:40:05"
     },
     {
         "channel": {
@@ -678,8 +678,8 @@
         },
         "type": "vless",
         "config": "vless://ec8c7856-ce58-4931-aa49-1831058ebdcf@91.195.110.218:2053?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=Telegramjoin:@servermomo-Telegramjoin:@servermomoTelegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomoTelegramjoin:@servermomo-Telegramjoin&sni=fjfujgguuukydtutui.mic-mokhaderat-irancel-raitel-hamrahman-mic.shop#رایگان | VLESS | @servermomo | CO🇨🇴 | 0️⃣3️⃣",
-        "ping": 1.55,
-        "time": "2024-01-12 09:44:26"
+        "ping": 5.3,
+        "time": "2024-01-12 10:39:55"
     },
     {
         "channel": {
@@ -689,8 +689,8 @@
         },
         "type": "vless",
         "config": "vless://ec8c7856-ce58-4931-aa49-1831058ebdcf@190.93.247.155:2053?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=Telegramjoin:@servermomo-Telegramjoin:@servermomoTelegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomoTelegramjoin:@servermomo-Telegramjoin&sni=fjfujgguuukydtutui.mic-mokhaderat-irancel-raitel-hamrahman-mic.shop#رایگان | VLESS | @servermomo | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 1.66,
-        "time": "2024-01-12 09:44:26"
+        "ping": 5.56,
+        "time": "2024-01-12 10:39:55"
     },
     {
         "channel": {
@@ -700,30 +700,8 @@
         },
         "type": "vless",
         "config": "vless://ec8c7856-ce58-4931-aa49-1831058ebdcf@104.17.115.77:2053?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=Telegramjoin:@servermomo-Telegramjoin:@servermomoTelegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomoTelegramjoin:@servermomo-Telegramjoin&sni=fjfujgguuukydtutui.mic-mokhaderat-irancel-raitel-hamrahman-mic.shop#رایگان | VLESS | @servermomo | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 1.65,
-        "time": "2024-01-12 09:44:26"
-    },
-    {
-        "channel": {
-            "username": "proxy_kafee",
-            "title": "☕️ Kafe Proxy ☕️",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/proxy_kafee.jpg"
-        },
-        "type": "vless",
-        "config": "vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 14.68,
-        "time": "2024-01-12 09:44:00"
-    },
-    {
-        "channel": {
-            "username": "proxy_kafee",
-            "title": "☕️ Kafe Proxy ☕️",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/proxy_kafee.jpg"
-        },
-        "type": "vless",
-        "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 31.11,
-        "time": "2024-01-12 09:43:59"
+        "ping": 5.36,
+        "time": "2024-01-12 10:39:55"
     },
     {
         "channel": {
@@ -733,8 +711,30 @@
         },
         "type": "vless",
         "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mm---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 40.59,
-        "time": "2024-01-12 09:43:59"
+        "ping": 65.83,
+        "time": "2024-01-12 10:39:34"
+    },
+    {
+        "channel": {
+            "username": "proxy_kafee",
+            "title": "☕️ Kafe Proxy ☕️",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/proxy_kafee.jpg"
+        },
+        "type": "vless",
+        "config": "vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣3️⃣",
+        "ping": 65.19,
+        "time": "2024-01-12 10:39:34"
+    },
+    {
+        "channel": {
+            "username": "proxy_kafee",
+            "title": "☕️ Kafe Proxy ☕️",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/proxy_kafee.jpg"
+        },
+        "type": "vless",
+        "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣2️⃣",
+        "ping": 33.54,
+        "time": "2024-01-12 10:39:34"
     },
     {
         "channel": {
@@ -744,8 +744,8 @@
         },
         "type": "vless",
         "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?type=ws&security=tls&path=/?ed=2048&host=3k.pureboy.eu.org&sni=3k.pureboy.eu.org#رایگان | VLESS | @DarkTeam_VPN | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 5.93,
-        "time": "2024-01-12 09:43:55"
+        "ping": 13.79,
+        "time": "2024-01-12 10:39:32"
     },
     {
         "channel": {
@@ -755,8 +755,8 @@
         },
         "type": "vless",
         "config": "vless://a4c42483-3b0c-4ddb-b766-46592be075b6@104.24.255.191:2052?type=ws&security=none&path=/&host=RJNB46.amOoZeshgAH-pc.COM#رایگان | VLESS | @DarkTeam_VPN | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 1.65,
-        "time": "2024-01-12 09:43:55"
+        "ping": 5.23,
+        "time": "2024-01-12 10:39:32"
     },
     {
         "channel": {
@@ -766,8 +766,8 @@
         },
         "type": "vless",
         "config": "vless://a57f3fbc-221a-4f9b-89b6-7757c23e328b@104.16.29.8:8080?type=ws&security=none&path=/backup&host=media.khamenei.bio#رایگان | VLESS | @DarkTeam_VPN | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 1.58,
-        "time": "2024-01-12 09:43:55"
+        "ping": 5.2,
+        "time": "2024-01-12 10:39:32"
     },
     {
         "channel": {
@@ -777,8 +777,8 @@
         },
         "type": "vless",
         "config": "vless://6c859c60-37cf-4e97-a8f6-97f31ed83741@All.digiv2ray.shop:8080?path=/&security=none&encryption=none&host=Digi-V2rayng-ConneCtion.Digiv2ray.shop&type=ws#رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 9.27,
-        "time": "2024-01-12 09:43:54"
+        "ping": 20.07,
+        "time": "2024-01-12 10:39:31"
     },
     {
         "channel": {
@@ -788,8 +788,8 @@
         },
         "type": "vless",
         "config": "vless://7bf1c642-bc10-4a6e-8f01-a6411f051421@All.digiv2ray.shop:2053?path=/&security=tls&encryption=none&alpn=h2&host=Digi-V2rayng-ConneCtion.Digiv2ray.shop&fp=chrome&type=ws&sni=Digi-V2rayng-ConneCtion.Digiv2ray.shop#رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 15.11,
-        "time": "2024-01-12 09:43:54"
+        "ping": 14.02,
+        "time": "2024-01-12 10:39:31"
     },
     {
         "channel": {
@@ -799,19 +799,8 @@
         },
         "type": "vless",
         "config": "vless://cd23e4c1-c82f-444f-8f06-15c1f0978021@All.digiv2ray.shop:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray&sni=Digiv2ray-ConneCtion.Digiv2ray.shop#رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 6.42,
-        "time": "2024-01-12 09:43:54"
-    },
-    {
-        "channel": {
-            "username": "lightning6",
-            "title": "⚡Lightning",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/lightning6.jpg"
-        },
-        "type": "vless",
-        "config": "vless://13b23118-2b2e-4b0a-87fc-221c2333d6d4@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=lightning6z.liV2raYz.cfd#رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 8.53,
-        "time": "2024-01-12 09:43:44"
+        "ping": 18.97,
+        "time": "2024-01-12 10:39:31"
     },
     {
         "channel": {
@@ -821,8 +810,8 @@
         },
         "type": "vless",
         "config": "vless://13b23118-2b2e-4b0a-87fc-221c2333d6d4@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=lightning6t.liV2raYz.cfd#رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 3.73,
-        "time": "2024-01-12 09:43:44"
+        "ping": 13.46,
+        "time": "2024-01-12 10:39:24"
     },
     {
         "channel": {
@@ -832,8 +821,19 @@
         },
         "type": "vless",
         "config": "vless://13b23118-2b2e-4b0a-87fc-221c2333d6d4@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=lightning6.liV2raYz.cfd#رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 8.82,
-        "time": "2024-01-12 09:43:44"
+        "ping": 49.61,
+        "time": "2024-01-12 10:39:24"
+    },
+    {
+        "channel": {
+            "username": "lightning6",
+            "title": "⚡Lightning",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/lightning6.jpg"
+        },
+        "type": "vless",
+        "config": "vless://13b23118-2b2e-4b0a-87fc-221c2333d6d4@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=lightning6z.liV2raYz.cfd#رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣3️⃣",
+        "ping": 19.16,
+        "time": "2024-01-12 10:39:24"
     },
     {
         "channel": {
@@ -843,8 +843,8 @@
         },
         "type": "vless",
         "config": "vless://6c5db66b-4002-4e15-afb3-fad79fdbfa7f@104.31.16.65:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@R&sni=ch.RxV2ray.space#رایگان | VLESS | @rxv2ray | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 1.65,
-        "time": "2024-01-12 09:43:40"
+        "ping": 5.49,
+        "time": "2024-01-12 10:39:20"
     },
     {
         "channel": {
@@ -854,8 +854,8 @@
         },
         "type": "vless",
         "config": "vless://6c5db66b-4002-4e15-afb3-fad79fdbfa7f@cdnjs.com:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@R&sni=ch.RxV2ray.space#رایگان | VLESS | @rxv2ray | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 1.83,
-        "time": "2024-01-12 09:43:40"
+        "ping": 6.12,
+        "time": "2024-01-12 10:39:20"
     },
     {
         "channel": {
@@ -865,8 +865,8 @@
         },
         "type": "vless",
         "config": "vless://6c5db66b-4002-4e15-afb3-fad79fdbfa7f@tel.RxV2ray.space:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@R&sni=ch.RxV2ray.space#رایگان | VLESS | @rxv2ray | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 17.32,
-        "time": "2024-01-12 09:43:40"
+        "ping": 50.42,
+        "time": "2024-01-12 10:39:20"
     },
     {
         "channel": {
@@ -875,9 +875,9 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/Lockey_vpn.jpg"
         },
         "type": "vless",
-        "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 170.58,
-        "time": "2024-01-12 09:43:39"
+        "config": "vless://9085fb59-f4b0-453e-a509-a8673c35c549@190.93.246.241:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=31447461&sni=7478866808.devar.cfd#رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣1️⃣",
+        "ping": 5.19,
+        "time": "2024-01-12 10:39:19"
     },
     {
         "channel": {
@@ -886,9 +886,9 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/Lockey_vpn.jpg"
         },
         "type": "vless",
-        "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 2.06,
-        "time": "2024-01-12 09:43:39"
+        "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣3️⃣",
+        "ping": 5.94,
+        "time": "2024-01-12 10:39:19"
     },
     {
         "channel": {
@@ -897,9 +897,31 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/Lockey_vpn.jpg"
         },
         "type": "vless",
-        "config": "vless://bf86d355-289a-455f-9b60-5e85f54bb83d@104.21.44.223:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=bbbb.eshkinsike.click&fp=chrome&type=ws&sni=bbbb.eshkinsike.click#رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 1.69,
-        "time": "2024-01-12 09:43:39"
+        "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣2️⃣",
+        "ping": 256.12,
+        "time": "2024-01-12 10:39:19"
+    },
+    {
+        "channel": {
+            "username": "forwardv2ray",
+            "title": "FORWARDV2RAY",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
+        },
+        "type": "vless",
+        "config": "vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.16.178.157:443?path=/fflsws&security=tls&encryption=none&serviceName=@TLS_v2ray&host=lmn37.sbs&type=ws&sni=lmn37.sbs#رایگان | VLESS | @forwardv2ray | RELAY🚩 | 0️⃣2️⃣",
+        "ping": 5.32,
+        "time": "2024-01-12 10:39:17"
+    },
+    {
+        "channel": {
+            "username": "forwardv2ray",
+            "title": "FORWARDV2RAY",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
+        },
+        "type": "vless",
+        "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.28.213:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#رایگان | VLESS | @forwardv2ray | FR🇫🇷 | 0️⃣1️⃣",
+        "ping": 109.81,
+        "time": "2024-01-12 10:39:16"
     },
     {
         "channel": {
@@ -909,8 +931,8 @@
         },
         "type": "vless",
         "config": "vless://e3206e46-4bdd-4f37-87e4-c4cb4e7f8a81@de.melov2ray.shop:8443?encryption=none&security=tls&sni=De.Melov2ray.Shop&alpn=h2,http/1.1&fp=chrome&type=ws&path=/melov2ray#رایگان | VLESS | @melov2ray | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 15.13,
-        "time": "2024-01-12 09:43:31"
+        "ping": 157.38,
+        "time": "2024-01-12 10:39:13"
     },
     {
         "channel": {
@@ -920,8 +942,8 @@
         },
         "type": "vless",
         "config": "vless://ae78e867-0ff7-4d3e-a847-9ef17728cc5f@zula.ir:8443?type=grpc&serviceName=@melov2ray&security=tls&fp=random&alpn=h2,http/1.1,h3&sni=FIn.Melov2ray.Shop#رایگان | VLESS | @melov2ray | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 2.01,
-        "time": "2024-01-12 09:43:31"
+        "ping": 5.71,
+        "time": "2024-01-12 10:39:12"
     },
     {
         "channel": {
@@ -930,9 +952,9 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/melov2ray.jpg"
         },
         "type": "vless",
-        "config": "vless://ae78e867-0ff7-4d3e-a847-9ef17728cc5f@fin.melov2ray.shop:8443?type=grpc&serviceName=@melov2ray&security=tls&fp=random&alpn=h2,http/1.1,h3&sni=FIn.Melov2ray.Shop#رایگان | VLESS | @melov2ray | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 8.81,
-        "time": "2024-01-12 09:43:31"
+        "config": "vless://ae78e867-0ff7-4d3e-a847-9ef17728cc5f@fin.melov2ray.shop:8443?type=grpc&serviceName=@melov2ray&security=tls&fp=random&alpn=h2,http/1.1,h3&sni=FIn.Melov2ray.Shop#رایگان | VLESS | @melov2ray | RELAY🚩 | 0️⃣2️⃣",
+        "ping": 33.2,
+        "time": "2024-01-12 10:39:12"
     },
     {
         "channel": {
@@ -942,8 +964,8 @@
         },
         "type": "vless",
         "config": "vless://ed72dc45-9286-486e-a341-738f259d6b92@173.245.58.51:2096?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=&sni=bazamfiltring.digimovie.tech#رایگان | VLESS | @Parsashonam | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 1.59,
-        "time": "2024-01-12 09:43:17"
+        "ping": 5.89,
+        "time": "2024-01-12 10:39:01"
     },
     {
         "channel": {
@@ -953,19 +975,8 @@
         },
         "type": "vless",
         "config": "vless://8e216f7f-f239-49a3-9a4f-a862d937ee04@104.16.4.189:443?type=grpc&encryption=none&security=tls&sni=ssn.galaxy-irankings.top&alpn=h2,http/1.1&fp=chrome#رایگان | VLESS | @EliV2ray | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 2.22,
-        "time": "2024-01-12 09:43:16"
-    },
-    {
-        "channel": {
-            "username": "EliV2ray",
-            "title": "𝐞𝐥𝐢𝐕𝟐𝐫𝐚𝐲",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/EliV2ray.jpg"
-        },
-        "type": "vless",
-        "config": "vless://9eda6b9e-29a4-4aef-a22f-a2619ced197d@173.245.58.102:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=GaQyEd4oshLPXXZOXzf10v&sni=germanhidify.followerarzon.ir#رایگان | VLESS | @EliV2ray | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 1.58,
-        "time": "2024-01-12 09:43:16"
+        "ping": 5.25,
+        "time": "2024-01-12 10:39:00"
     },
     {
         "channel": {
@@ -975,8 +986,19 @@
         },
         "type": "vless",
         "config": "vless://8e216f7f-f239-49a3-9a4f-a862d937ee04@104.16.2.189:443?type=grpc&encryption=none&security=tls&sni=ssn.galaxy-irankings.top&alpn=h2,http/1.1&fp=chrome#رایگان | VLESS | @EliV2ray | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 2.1,
-        "time": "2024-01-12 09:43:16"
+        "ping": 5.52,
+        "time": "2024-01-12 10:39:00"
+    },
+    {
+        "channel": {
+            "username": "EliV2ray",
+            "title": "𝐞𝐥𝐢𝐕𝟐𝐫𝐚𝐲",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/EliV2ray.jpg"
+        },
+        "type": "vless",
+        "config": "vless://9eda6b9e-29a4-4aef-a22f-a2619ced197d@173.245.58.102:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=GaQyEd4oshLPXXZOXzf10v&sni=germanhidify.followerarzon.ir#رایگان | VLESS | @EliV2ray | US🇺🇸 | 0️⃣1️⃣",
+        "ping": 5.16,
+        "time": "2024-01-12 10:39:00"
     },
     {
         "channel": {
@@ -986,8 +1008,8 @@
         },
         "type": "vless",
         "config": "vless://e1376c90-2fe1-4b90-bcbb-3ce7b099a2b4@zula.ir:80?path=/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers&security=none&encryption=none&host=press-lap-avatar-target.trycloudflare.com&type=ws#رایگان | VLESS | @Helix_Servers | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 2.18,
-        "time": "2024-01-12 09:43:08"
+        "ping": 5.6,
+        "time": "2024-01-12 10:38:55"
     },
     {
         "channel": {
@@ -997,8 +1019,8 @@
         },
         "type": "vless",
         "config": "vless://e1376c90-2fe1-4b90-bcbb-3ce7b099a2b4@zula.ir:80?path=/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers&security=none&encryption=none&host=field-aquarium-hack-pendant.trycloudflare.com&type=ws#رایگان | VLESS | @Helix_Servers | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 2.24,
-        "time": "2024-01-12 09:43:08"
+        "ping": 5.64,
+        "time": "2024-01-12 10:38:55"
     },
     {
         "channel": {
@@ -1008,8 +1030,8 @@
         },
         "type": "vless",
         "config": "vless://9c4662bd-4ddd-4a25-b939-25b6c1c7076d@zula.ir:80?path=/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers/Telegram-Channel=HELIX-Servers&security=none&encryption=none&host=rapidly-bon-personals-sitting.trycloudflare.com&type=ws#رایگان | VLESS | @Helix_Servers | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 504.73,
-        "time": "2024-01-12 09:43:08"
+        "ping": 219.3,
+        "time": "2024-01-12 10:38:55"
     },
     {
         "channel": {
@@ -1017,10 +1039,10 @@
             "title": "FORWARDV2RAY",
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
         },
-        "type": "vmess",
-        "config": "vmess://eyJwb3J0IjoiMjA4NiIsImhvc3QiOiJqb2luLXNoby5jb2RlLXYyLmNmZCIsImlkIjoiVGVsZWdyYW0tVjJyYXlfYWxwaGEiLCJhZGQiOiIxMDQuMjEuMjAuMTQ4IiwibmV0Ijoid3MiLCJhaWQiOiIwIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJzY3kiOiJhdXRvIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBmb3J3YXJkdjJyYXkgfCBSRUxBWVx1ZDgzZFx1ZGVhOSB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIn0=",
-        "ping": 17.46,
-        "time": "2024-01-12 09:41:01"
+        "type": "trojan",
+        "config": "trojan://telegram-id-privatevpns@13.48.76.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @forwardv2ray | SE🇸🇪 | 0️⃣3️⃣",
+        "ping": 107.56,
+        "time": "2024-01-12 10:30:19"
     },
     {
         "channel": {
@@ -1028,10 +1050,10 @@
             "title": "FORWARDV2RAY",
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
         },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxNjcuMjM1LjEzMC4yMDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWZlNTc1NTctZGYyNC00M2U1LTljZWEtNWQyYWNjMmNhZDA4IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAZm9yd2FyZHYycmF5IHwgREVcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibXVsdGkiLCJ2IjoiMiJ9",
-        "ping": 158.4,
-        "time": "2024-01-12 09:41:01"
+        "type": "trojan",
+        "config": "trojan://telegram-id-privatevpns@13.48.76.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @forwardv2ray | SE🇸🇪 | 0️⃣2️⃣",
+        "ping": 109.55,
+        "time": "2024-01-12 10:30:10"
     },
     {
         "channel": {
@@ -1039,21 +1061,21 @@
             "title": "FORWARDV2RAY",
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
         },
-        "type": "vless",
-        "config": "vless://618fb54a-54aa-4534-9b86-a56fb3c3b2d3@3join.bede.vmessorg.info:80?type=ws&security=none&path=/&host=biato.channel1.vmessorg.info#رایگان | VLESS | @forwardv2ray | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 114.43,
-        "time": "2024-01-12 09:25:50"
+        "type": "trojan",
+        "config": "trojan://telegram-id-directvpn@16.171.215.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @forwardv2ray | SE🇸🇪 | 0️⃣1️⃣",
+        "ping": 108.59,
+        "time": "2024-01-12 10:30:08"
     },
     {
         "channel": {
-            "username": "forwardv2ray",
-            "title": "FORWARDV2RAY",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
+            "username": "PrivateVPNs",
+            "title": "V2ray | Vmess | Trojan | Vless",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/PrivateVPNs.jpg"
         },
-        "type": "vless",
-        "config": "vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@cdnjs.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=public.satoshi.mom&fp=chrome&type=ws&sni=public.SATOSHI.MOM#رایگان | VLESS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 2.43,
-        "time": "2024-01-12 09:25:49"
+        "type": "trojan",
+        "config": "trojan://telegram-id-privatevpns@3.11.181.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣3️⃣",
+        "ping": 87.69,
+        "time": "2024-01-12 10:30:06"
     },
     {
         "channel": {
@@ -1062,9 +1084,20 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
         },
         "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNdXVGT1VFazB3bVg5MVNoNXQxQ3VQ@toronto.telegavpn.org:31024#رایگان | SS | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
-        "ping": 331.01,
-        "time": "2024-01-12 09:14:10"
+        "config": "ss://YWVzLTEyOC1nY206QFpFRE1PREVPTg==@65.21.183.216:45793#رایگان | SS | @forwardv2ray | FI🇫🇮 | 0️⃣1️⃣",
+        "ping": 115.76,
+        "time": "2024-01-12 10:29:17"
+    },
+    {
+        "channel": {
+            "username": "PrivateVPNs",
+            "title": "V2ray | Vmess | Trojan | Vless",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/PrivateVPNs.jpg"
+        },
+        "type": "trojan",
+        "config": "trojan://telegram-id-privatevpns@18.171.115.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣2️⃣",
+        "ping": 85.61,
+        "time": "2024-01-12 10:00:15"
     },
     {
         "channel": {
@@ -1074,7 +1107,7 @@
         },
         "type": "vless",
         "config": "vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?type=ws&path=/&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Skyy.bbv2ry.pics#رایگان | VLESS | @V2rayCollectorDonate | RELAY🚩 | 1️⃣7️⃣",
-        "ping": 3.51,
+        "ping": 19.32,
         "time": "2024-01-12 09:02:24"
     },
     {
@@ -1084,8 +1117,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/V2rayCollectorDonate.jpg"
         },
         "type": "vless",
-        "config": "vless://a9940f02-aa4f-4e32-837e-8b794f8c17c4@free.pandavpn.tech:8880?encryption=none&security=none&type=ws&host=946553935957697894895735894744443623224662282336627665568267.goliali.ir&path=Telegram Channel : @pandavpntc#رایگان | VLESS | @V2rayCollectorDonate | US🇺🇸 | 1️⃣6️⃣",
-        "ping": 1.97,
+        "config": "vless://a9940f02-aa4f-4e32-837e-8b794f8c17c4@free.pandavpn.tech:8880?encryption=none&security=none&type=ws&host=946553935957697894895735894744443623224662282336627665568267.goliali.ir&path=Telegram Channel : @pandavpntc#رایگان | VLESS | @V2rayCollectorDonate | RELAY🚩 | 1️⃣6️⃣",
+        "ping": 8.77,
         "time": "2024-01-12 09:01:56"
     },
     {
@@ -1096,7 +1129,7 @@
         },
         "type": "vless",
         "config": "vless://c94b206a-50c4-43d4-ad4c-6681d2ed9192@morph.rustbridge.site:2053?security=tls&type=ws&headerType=&path=&host=gateway.rustbridge.site&sni=gateway.rustbridge.site&fp=&alpn=#رایگان | VLESS | @V2rayCollectorDonate | US🇺🇸 | 1️⃣5️⃣",
-        "ping": 15.27,
+        "ping": 26.99,
         "time": "2024-01-12 08:39:24"
     },
     {
@@ -1106,8 +1139,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/V2rayCollectorDonate.jpg"
         },
         "type": "vless",
-        "config": "vless://a9940f02-aa4f-4e32-837e-8b794f8c17c4@free.pandavpn.tech:8880?encryption=none&security=none&type=ws&host=946553935957697894895735894744443623224662282336627665568267.goliali.ir&path=Telegram Channel : @pandavpntc#رایگان | VLESS | @V2rayCollectorDonate | US🇺🇸 | 1️⃣4️⃣",
-        "ping": 2.2,
+        "config": "vless://a9940f02-aa4f-4e32-837e-8b794f8c17c4@free.pandavpn.tech:8880?encryption=none&security=none&type=ws&host=946553935957697894895735894744443623224662282336627665568267.goliali.ir&path=Telegram Channel : @pandavpntc#رایگان | VLESS | @V2rayCollectorDonate | RELAY🚩 | 1️⃣4️⃣",
+        "ping": 5.99,
         "time": "2024-01-12 08:38:49"
     },
     {
@@ -1118,7 +1151,7 @@
         },
         "type": "vless",
         "config": "vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?type=ws&path=/&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Skyy.bbv2ry.pics#رایگان | VLESS | @V2rayCollectorDonate | RELAY🚩 | 1️⃣3️⃣",
-        "ping": 3.45,
+        "ping": 18.76,
         "time": "2024-01-12 08:38:14"
     },
     {
@@ -1128,8 +1161,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/V2rayCollectorDonate.jpg"
         },
         "type": "vless",
-        "config": "vless://a9940f02-aa4f-4e32-837e-8b794f8c17c4@free.pandavpn.tech:8880?encryption=none&security=none&type=ws&host=946553935957697854895735894744443623224662282336627665568267.goliali.ir&path=Telegram Channel : @pandavpntc#رایگان | VLESS | @V2rayCollectorDonate | US🇺🇸 | 1️⃣2️⃣",
-        "ping": 1.88,
+        "config": "vless://a9940f02-aa4f-4e32-837e-8b794f8c17c4@free.pandavpn.tech:8880?encryption=none&security=none&type=ws&host=946553935957697854895735894744443623224662282336627665568267.goliali.ir&path=Telegram Channel : @pandavpntc#رایگان | VLESS | @V2rayCollectorDonate | RELAY🚩 | 1️⃣2️⃣",
+        "ping": 5.98,
         "time": "2024-01-12 07:18:46"
     },
     {
@@ -1139,8 +1172,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/V2rayCollectorDonate.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoiam9pbi1zaG8tdG8uZnJlZXYyYWxwaGEuY2ZkIiwiaWQiOiJUZWxlZ3JhbS1WMnJheV9hbHBoYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAVjJyYXlDb2xsZWN0b3JEb25hdGUgfCBSRUxBWVx1ZDgzZFx1ZGVhOSB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-        "ping": 17.63,
+        "config": "vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoiam9pbi1zaG8tdG8uZnJlZXYyYWxwaGEuY2ZkIiwiaWQiOiJUZWxlZ3JhbS1WMnJheV9hbHBoYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAVjJyYXlDb2xsZWN0b3JEb25hdGUgfCBVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+        "ping": 26.31,
         "time": "2024-01-12 04:48:40"
     },
     {
@@ -1151,7 +1184,7 @@
         },
         "type": "vless",
         "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mm---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 5.98,
+        "ping": 65.04,
         "time": "2024-01-12 02:38:09"
     },
     {
@@ -1162,7 +1195,7 @@
         },
         "type": "vless",
         "config": "vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?type=ws&path=/&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Skyy.bbv2ry.pics#رایگان | VLESS | @V2rayCollectorDonate | RELAY🚩 | 1️⃣1️⃣",
-        "ping": 3.15,
+        "ping": 7.25,
         "time": "2024-01-12 02:20:47"
     },
     {
@@ -1172,8 +1205,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/V2rayCollectorDonate.jpg"
         },
         "type": "vless",
-        "config": "vless://a9940f02-aa4f-4e32-837e-8b794f8c17c4@free.pandavpn.tech:8880?encryption=none&security=none&type=ws&host=946553935957697854895735894744443623224662282336627665568267.goliali.ir&path=Telegram Channel : @pandavpntc#رایگان | VLESS | @V2rayCollectorDonate | US🇺🇸 | 1️⃣0️⃣",
-        "ping": 2.14,
+        "config": "vless://a9940f02-aa4f-4e32-837e-8b794f8c17c4@free.pandavpn.tech:8880?encryption=none&security=none&type=ws&host=946553935957697854895735894744443623224662282336627665568267.goliali.ir&path=Telegram Channel : @pandavpntc#رایگان | VLESS | @V2rayCollectorDonate | RELAY🚩 | 1️⃣0️⃣",
+        "ping": 5.69,
         "time": "2024-01-12 01:11:51"
     },
     {
@@ -1184,7 +1217,7 @@
         },
         "type": "reality",
         "config": "vless://d6ce7ebf-dba6-4e43-82a3-24fe19dc087e@91.107.248.118:10723?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.com&fp=firefox&security=reality&pbk=DI1xCthf1sy3Hagj_tT5On9z8LDKYU5kmRvnFhByoyE&sid=1e3de310#رایگان | REALITY | @V2rayCollectorDonate | IR🇮🇷 | 0️⃣9️⃣",
-        "ping": 161.91,
+        "ping": 94.79,
         "time": "2024-01-12 01:04:53"
     },
     {
@@ -1195,7 +1228,7 @@
         },
         "type": "vless",
         "config": "vless://SvnTeam@CDN.user.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=usV2raybu.svnteamfree.com#رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 25.9,
+        "ping": 42.35,
         "time": "2024-01-12 00:34:53"
     },
     {
@@ -1206,7 +1239,7 @@
         },
         "type": "vless",
         "config": "vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 1.55,
+        "ping": 5.49,
         "time": "2024-01-12 00:33:56"
     },
     {
@@ -1217,7 +1250,7 @@
         },
         "type": "vless",
         "config": "vless://e03be1d4-bd9a-45dd-a6cd-4ada8e9be94a@172.66.47.98:2053?security=tls&encryption=none&type=ws&host=defcjkodfvgerjifkvsdfcedfcdv78d5f4jijijjh785696.bale.bio&path=/backup&sni=defcjkodfvgerjifkvsdfcedfcdv78d5f4jijijjh785696.bale.bio&fp=chrome#رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 1.61,
+        "ping": 6.69,
         "time": "2024-01-12 00:16:07"
     },
     {
@@ -1228,7 +1261,7 @@
         },
         "type": "vless",
         "config": "vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#رایگان | VLESS | @SafeNet_Server | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 219.48,
+        "ping": 13.87,
         "time": "2024-01-12 00:02:07"
     },
     {
@@ -1238,8 +1271,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/PrivateVPNs.jpg"
         },
         "type": "trojan",
-        "config": "trojan://telegram-id-privatevpns@13.39.114.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣3️⃣",
-        "ping": 158.4,
+        "config": "trojan://telegram-id-privatevpns@34.253.170.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣1️⃣",
+        "ping": 93.86,
         "time": "2024-01-11 23:30:53"
     },
     {
@@ -1250,7 +1283,7 @@
         },
         "type": "vless",
         "config": "vless://telegram-id-ArV2ray@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=bV2raymonoli_astiketrocker_aheufamilobemi_kOk.arv2ray.host#رایگان | VLESS | @V2RayTz | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 1.68,
+        "ping": 5.37,
         "time": "2024-01-11 23:05:09"
     },
     {
@@ -1261,7 +1294,7 @@
         },
         "type": "vless",
         "config": "vless://telegram-id-ArV2ray@173.245.59.100:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=bV2raymonoli_astiketrocker_aheufamilobemi_kOk.arv2ray.host#رایگان | VLESS | @V2RayTz | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 1.72,
+        "ping": 6.51,
         "time": "2024-01-11 23:05:05"
     },
     {
@@ -1272,19 +1305,8 @@
         },
         "type": "reality",
         "config": "vless://ed1b1f97-db22-4df1-b6a4-5e0a3462e389@65.21.58.66:443?mode=gun&security=reality&encryption=none&pbk=QQccw-lr9IZ5f7B5918_3LVWRwJF4Hg97ND5j78JwVU&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=upmusics.com&sid=7ad4bd9d#رایگان | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣1️⃣",
-        "ping": 177.69,
+        "ping": 116.22,
         "time": "2024-01-11 23:05:03"
-    },
-    {
-        "channel": {
-            "username": "PrivateVPNs",
-            "title": "V2ray | Vmess | Trojan | Vless",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/PrivateVPNs.jpg"
-        },
-        "type": "trojan",
-        "config": "trojan://telegram-id-privatevpns@15.236.76.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣2️⃣",
-        "ping": 155.65,
-        "time": "2024-01-11 22:50:17"
     },
     {
         "channel": {
@@ -1294,7 +1316,7 @@
         },
         "type": "vless",
         "config": "vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?type=ws&path=/&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Skyy.bbv2ry.pics#رایگان | VLESS | @V2rayCollectorDonate | RELAY🚩 | 0️⃣8️⃣",
-        "ping": 154.02,
+        "ping": 20.36,
         "time": "2024-01-11 22:21:48"
     },
     {
@@ -1305,7 +1327,7 @@
         },
         "type": "vless",
         "config": "vless://94a39fd6-8905-4972-b60a-fecb71359224@mlnp2.miox.sbs:443?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&type=grpc&serviceName=@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray&sni=mlnp2.miox.sbs#رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 8.25,
+        "ping": 45.86,
         "time": "2024-01-11 22:16:34"
     },
     {
@@ -1316,19 +1338,8 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoiam9pbi1zaG8uZnJlZXYyYWxwaGEuY2ZkIiwiaWQiOiJUZWxlZ3JhbS1WMnJheV9hbHBoYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAdjJyYXkxX25nIHwgVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-        "ping": 169.69,
+        "ping": 25.05,
         "time": "2024-01-11 22:10:16"
-    },
-    {
-        "channel": {
-            "username": "PrivateVPNs",
-            "title": "V2ray | Vmess | Trojan | Vless",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/PrivateVPNs.jpg"
-        },
-        "type": "trojan",
-        "config": "trojan://telegram-id-privatevpns@3.11.181.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣1️⃣",
-        "ping": 151.98,
-        "time": "2024-01-11 22:00:07"
     },
     {
         "channel": {
@@ -1338,7 +1349,7 @@
         },
         "type": "vless",
         "config": "vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?path=/?ed&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#رایگان | VLESS | @SafeNet_Server | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 1.62,
+        "ping": 5.48,
         "time": "2024-01-11 21:34:39"
     },
     {
@@ -1348,8 +1359,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/V2rayCollectorDonate.jpg"
         },
         "type": "vless",
-        "config": "vless://a9940f02-aa4f-4e32-837e-8b794f8c17c4@free.pandavpn.tech:8880?encryption=none&security=none&type=ws&host=946553935957697854895735894744443623224662282336627665568267.goliali.ir&path=Telegram Channel : @pandavpntc#رایگان | VLESS | @V2rayCollectorDonate | RELAY🚩 | 0️⃣7️⃣",
-        "ping": 17.66,
+        "config": "vless://a9940f02-aa4f-4e32-837e-8b794f8c17c4@free.pandavpn.tech:8880?encryption=none&security=none&type=ws&host=946553935957697854895735894744443623224662282336627665568267.goliali.ir&path=Telegram Channel : @pandavpntc#رایگان | VLESS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣7️⃣",
+        "ping": 25.41,
         "time": "2024-01-11 19:48:39"
     },
     {
@@ -1360,7 +1371,7 @@
         },
         "type": "reality",
         "config": "vless://6489012d-d831-4670-df1b-76f11efd4dbe@[::ffff:d412:683e]:23078?mode=gun&security=reality&encryption=none&pbk=rwOdBjkVR7JyMzQWZMOW4FaHdr9euEYGABwPzv8UA28&fp=chrome&spx=/&type=grpc&serviceName=&sni=account.zula.ir&sid=20410a#رایگان | REALITY | @V2rayCollectorDonate | US🇺🇸 | 0️⃣6️⃣",
-        "ping": 16.19,
+        "ping": 60.39,
         "time": "2024-01-11 19:42:21"
     },
     {
@@ -1370,8 +1381,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/Capoit.jpg"
         },
         "type": "vless",
-        "config": "vless://cdc40711-dae0-4182-9ed5-bf491933792f@Tel.ipV2Ray.shop:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=dm.ipV2Ray.shop#رایگان | VLESS | @Capoit | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 50.64,
+        "config": "vless://cdc40711-dae0-4182-9ed5-bf491933792f@Tel.ipV2Ray.shop:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=dm.ipV2Ray.shop#رایگان | VLESS | @Capoit | RELAY🚩 | 0️⃣2️⃣",
+        "ping": 85.64,
         "time": "2024-01-11 19:31:15"
     },
     {
@@ -1382,7 +1393,7 @@
         },
         "type": "vless",
         "config": "vless://e57e2f03-01c3-4f27-8803-2e35145373b2@173.245.59.16:80?path=/backup&security=none&encryption=none&host=FgauEf.aMOoZEsHgAH-Pc.cOm&type=ws#رایگان | VLESS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣5️⃣",
-        "ping": 1.51,
+        "ping": 5.19,
         "time": "2024-01-11 18:52:56"
     },
     {
@@ -1393,7 +1404,7 @@
         },
         "type": "vless",
         "config": "vless://e57e2f03-01c3-4f27-8803-2e35145373b2@188.114.96.3:80?path=/backup&security=none&encryption=none&host=FgauEf.aMOoZEsHgAH-Pc.cOm&type=ws#رایگان | VLESS | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣4️⃣",
-        "ping": 1.96,
+        "ping": 5.15,
         "time": "2024-01-11 18:51:28"
     },
     {
@@ -1404,7 +1415,7 @@
         },
         "type": "vless",
         "config": "vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#رایگان | VLESS | @MehradLearn | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 1.97,
+        "ping": 6.13,
         "time": "2024-01-11 18:47:17"
     },
     {
@@ -1415,7 +1426,7 @@
         },
         "type": "vless",
         "config": "vless://e1a928be-e289-4aef-b92e-4106fabdf42f@188.114.96.18:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#رایگان | VLESS | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣3️⃣",
-        "ping": 2.03,
+        "ping": 5.37,
         "time": "2024-01-11 18:45:37"
     },
     {
@@ -1426,7 +1437,7 @@
         },
         "type": "vless",
         "config": "vless://fc82b626-2abb-4d5b-aa0b-49fe2936473f@104.21.64.117:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=support5.haztlayati.xyz#رایگان | VLESS | @azadi_az_inja_migzare | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 1.72,
+        "ping": 5.38,
         "time": "2024-01-11 18:41:02"
     },
     {
@@ -1437,7 +1448,7 @@
         },
         "type": "vless",
         "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @SafeNet_Server | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 2.99,
+        "ping": 6.05,
         "time": "2024-01-11 18:12:40"
     },
     {
@@ -1447,8 +1458,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/ShadowProxy66.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiJobXMwOC5nd2RlZi5zYnMiLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imd3ZGVmLnNicyIsImlkIjoiYmM4NjQwNzgtZGNmMy00YmY0LThkYmYtY2E5ZjIwMGI1NmJlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBTaGFkb3dQcm94eTY2IHwgVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJnd2RlZi5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-        "ping": 15.51,
+        "config": "vmess://eyJhZGQiOiJobXMwOC5nd2RlZi5zYnMiLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imd3ZGVmLnNicyIsImlkIjoiYmM4NjQwNzgtZGNmMy00YmY0LThkYmYtY2E5ZjIwMGI1NmJlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBTaGFkb3dQcm94eTY2IHwgUkVMQVlcdWQ4M2RcdWRlYTkgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJnd2RlZi5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+        "ping": 20.25,
         "time": "2024-01-11 17:33:50"
     },
     {
@@ -1458,8 +1469,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/oneclickvpnkeys.jpg"
         },
         "type": "trojan",
-        "config": "trojan://qG9K8AGnn9XH5jUqeFu96g@cdn-13.cdn2cdn.com:2083?type=ws&host=cdn13.cdn2cdn.com&path=/&security=tls&sni=cdn13.cdn2cdn.com&fp=chrome#رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 1.93,
+        "config": "trojan://qG9K8AGnn9XH5jUqeFu96g@cdn-13.cdn2cdn.com:2083?type=ws&host=cdn13.cdn2cdn.com&path=/&security=tls&sni=cdn13.cdn2cdn.com&fp=chrome#رایگان | TROJAN | @oneclickvpnkeys | RELAY🚩 | 0️⃣3️⃣",
+        "ping": 6.04,
         "time": "2024-01-11 17:13:01"
     },
     {
@@ -1470,7 +1481,7 @@
         },
         "type": "vless",
         "config": "vless://2ce705d1-8528-45af-b260-91e58a4c5e0e@shhproxy.varzesh3-cnd.site:443?path=/&security=tls&encryption=none&alpn=h2&host=Gd.V2ran.motorcycles&fp=firefox&type=ws&sni=Gd.V2ran.motorcycles#رایگان | VLESS | @shh_proxy | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 8.69,
+        "ping": 19.84,
         "time": "2024-01-11 17:03:39"
     },
     {
@@ -1481,7 +1492,7 @@
         },
         "type": "vless",
         "config": "vless://SvnTeamm@mtn.vpnprosec.com:2087?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=UuV2rayK.svnteamfree.com#رایگان | VLESS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 2.03,
+        "ping": 5.89,
         "time": "2024-01-11 16:18:46"
     },
     {
@@ -1491,8 +1502,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/V2rayCollectorDonate.jpg"
         },
         "type": "vless",
-        "config": "vless://SvnTeam@mtn.vpnprosec.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=UuV2rayK.svnteamfree.com#رایگان | VLESS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 81.83,
+        "config": "vless://SvnTeam@mtn.vpnprosec.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=UuV2rayK.svnteamfree.com#رایگان | VLESS | @V2rayCollectorDonate | RELAY🚩 | 0️⃣1️⃣",
+        "ping": 99.32,
         "time": "2024-01-11 16:15:38"
     },
     {
@@ -1503,7 +1514,7 @@
         },
         "type": "vless",
         "config": "vless://af313948-dca9-449c-a725-c13331a42d06@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=‌@VPNCUSTOMIZE&sni=Finland1-kingspeedV2rayng.VPNCUSTOMIZE.tech#رایگان | VLESS | @VPNCUSTOMIZE | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 15.86,
+        "ping": 14.19,
         "time": "2024-01-11 16:09:36"
     },
     {
@@ -1514,7 +1525,7 @@
         },
         "type": "vless",
         "config": "vless://af313948-dca9-449c-a725-c13331a42d06@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=‌@VPNCUSTOMIZE&sni=Finland-kingspeedV2rayng.VPNCUSTOMIZE.tech#رایگان | VLESS | @VPNCUSTOMIZE | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 6.32,
+        "ping": 102.69,
         "time": "2024-01-11 15:53:30"
     },
     {
@@ -1525,7 +1536,7 @@
         },
         "type": "vless",
         "config": "vless://af313948-dca9-449c-a725-c13331a42d06@all.vpncustomize.cam:8443?path=/ed=2048&security=tls&encryption=none&alpn=h2&host=Finland-kingspeedv2rayng.VPNCUSTOMIZE.tech&fp=chrome&type=ws&sni=Finland-kingspeedv2rayng.VPNCUSTOMIZE.tech#رایگان | VLESS | @VPNCUSTOMIZE | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 248.01,
+        "ping": 370.68,
         "time": "2024-01-11 15:53:14"
     },
     {
@@ -1536,7 +1547,7 @@
         },
         "type": "vless",
         "config": "vless://09768cb5-60b5-4f59-9d95-3dc61290a497@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=sk.ArV2ray.host#رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 2.15,
+        "ping": 5.62,
         "time": "2024-01-11 15:39:55"
     },
     {
@@ -1547,7 +1558,7 @@
         },
         "type": "vless",
         "config": "vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.64.117:443?path=/?ed&security=tls&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws&sni=mahi.kosnanatfilterchi.eu.org#رایگان | VLESS | @azadi_az_inja_migzare | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 1.59,
+        "ping": 5.34,
         "time": "2024-01-11 15:21:29"
     },
     {
@@ -1558,7 +1569,7 @@
         },
         "type": "vless",
         "config": "vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#رایگان | VLESS | @Capoit | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 1.91,
+        "ping": 5.24,
         "time": "2024-01-11 15:21:16"
     },
     {
@@ -1569,7 +1580,7 @@
         },
         "type": "vless",
         "config": "vless://dc447620-34b6-41e5-a7d4-be72fb23db20@shhproxy.varzesh3-cnd.site:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=Gg.V2ran.motorcycles#رایگان | VLESS | @shh_proxy | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 8.42,
+        "ping": 18.82,
         "time": "2024-01-11 13:53:58"
     },
     {
@@ -1580,7 +1591,7 @@
         },
         "type": "trojan",
         "config": "trojan://qG9K8AGnn9XH5jUqeFu96g@cdn-13.cdn2cdn.com:2083?path=/&security=tls&host=cdn13.cdn2cdn.com&fp=chrome&type=ws&sni=cdn13.cdn2cdn.com#رایگان | TROJAN | @oneclickvpnkeys | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 61.98,
+        "ping": 99.97,
         "time": "2024-01-11 13:14:43"
     },
     {
@@ -1591,7 +1602,7 @@
         },
         "type": "vless",
         "config": "vless://bbd82ba2-64a3-464e-b415-aaa9bbd9aec9@shhproxy.varzesh3-cnd.site:443?path=/&security=tls&encryption=none&alpn=h2&host=franCe.V2ran.motorcycles&fp=firefox&type=ws&sni=franCe.V2ran.motorcycles#رایگان | VLESS | @shh_proxy | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 23.72,
+        "ping": 20.22,
         "time": "2024-01-11 12:43:10"
     },
     {
@@ -1602,7 +1613,7 @@
         },
         "type": "vless",
         "config": "vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 14.77,
+        "ping": 31.8,
         "time": "2024-01-11 09:59:14"
     },
     {
@@ -1612,8 +1623,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/customv2ray.jpg"
         },
         "type": "vless",
-        "config": "vless://e84104dc-baa4-4d08-a6ce-418113946018@all.vpncustomize.cam:8080?path=/&security=none&encryption=none&host=p1.matzone.site&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 3.66,
+        "config": "vless://e84104dc-baa4-4d08-a6ce-418113946018@all.vpncustomize.cam:8080?path=/&security=none&encryption=none&host=p1.matzone.site&type=ws#رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣2️⃣",
+        "ping": 7.25,
         "time": "2024-01-11 09:59:13"
     },
     {
@@ -1624,8 +1635,19 @@
         },
         "type": "vless",
         "config": "vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#رایگان | VLESS | @customv2ray | NL🇳🇱 | 0️⃣1️⃣",
-        "ping": 14.97,
+        "ping": 39.28,
         "time": "2024-01-11 09:59:13"
+    },
+    {
+        "channel": {
+            "username": "proxyymeliii",
+            "title": "کانال پروکسی وکانفیگ🇪🇸🔥 V2ray",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/proxyymeliii.jpg"
+        },
+        "type": "vless",
+        "config": "vless://292064a5-40aa-43cc-8d62-6cb1e94d15ca@V2ray.motorcycles:2087?path=/&security=tls&encryption=none&host=SHHPROXY.snappfoodd.site&type=ws&sni=SHHPROXY.snappfoodd.site#رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣3️⃣",
+        "ping": 346.75,
+        "time": "2024-01-11 08:34:12"
     },
     {
         "channel": {
@@ -1635,7 +1657,7 @@
         },
         "type": "trojan",
         "config": "trojan://LibertasOne**@ironone.libertasiran.cloud:443?type=ws&path=/n89&security=tls&sni=ironone.libertasiran.cloud&fp=chrome#رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 29.15,
+        "ping": 59.56,
         "time": "2024-01-11 01:32:39"
     },
     {
@@ -1646,7 +1668,7 @@
         },
         "type": "vless",
         "config": "vless://39701277-b87f-4de3-b952-5d667d02baf9@172.66.44.158:2052?security=none&encryption=none&type=ws&host=KcKhEs.SHApaRAK.bIo&path=/#رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 1.7,
+        "ping": 5.46,
         "time": "2024-01-10 23:26:55"
     },
     {
@@ -1657,7 +1679,7 @@
         },
         "type": "vless",
         "config": "vless://72dea52e-edb5-452a-b322-3fa17387b817@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.host#رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 94.65,
+        "ping": 49.51,
         "time": "2024-01-10 23:20:31"
     },
     {
@@ -1667,8 +1689,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/MehradLearn.jpg"
         },
         "type": "vless",
-        "config": "vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#رایگان | VLESS | @MehradLearn | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 190.11,
+        "config": "vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#رایگان | VLESS | @MehradLearn | RELAY🚩 | 0️⃣1️⃣",
+        "ping": 94.17,
         "time": "2024-01-10 22:48:14"
     },
     {
@@ -1679,7 +1701,7 @@
         },
         "type": "vless",
         "config": "vless://76ea878d-6e08-47dd-bf1e-cd034d01cea8@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=footlo.argha-v2pedia.monster#رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 3.89,
+        "ping": 13.66,
         "time": "2024-01-10 21:07:30"
     },
     {
@@ -1690,7 +1712,7 @@
         },
         "type": "trojan",
         "config": "trojan://qG9K8AGnn9XH5jUqeFu96g@cdn-13.cdn2cdn.com:2083?path=/&security=tls&host=cdn13.cdn2cdn.com&fp=chrome&type=ws&sni=cdn13.cdn2cdn.com#رایگان | TROJAN | @VmessProtocol | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 1.87,
+        "ping": 5.56,
         "time": "2024-01-10 20:20:43"
     },
     {
@@ -1701,7 +1723,7 @@
         },
         "type": "vless",
         "config": "vless://5804f6cf-e4bd-4d0b-bf9e-0b78f6c000d5@all.vipxali.cfd:2053?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&fp=safari&type=grpc&serviceName=@XsV2ray,@XsV2ray&sni=iu.supramx.site#رایگان | VLESS | @XsV2ray | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 3.67,
+        "ping": 13.31,
         "time": "2024-01-10 17:50:42"
     },
     {
@@ -1712,7 +1734,7 @@
         },
         "type": "vless",
         "config": "vless://848b67bb-9bd8-432f-a0c1-c25b4aa581b5@104.31.16.65:2053?path=/&security=tls&encryption=none&host=ch.RxV2ray.space&type=ws&sni=ch.RxV2ray.space#رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 3.34,
+        "ping": 5.29,
         "time": "2024-01-10 17:41:02"
     },
     {
@@ -1723,7 +1745,7 @@
         },
         "type": "vless",
         "config": "vless://42ffd31a-7994-44fd-9875-0bf7493f32f2@173.245.58.133:8080?security=none&encryption=none&type=ws&host=qazEDtgHUJ34RTG45TFRd.dr-salam.com&path=/backup#رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 1.68,
+        "ping": 5.24,
         "time": "2024-01-10 17:17:55"
     },
     {
@@ -1733,8 +1755,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/proxyymeliii.jpg"
         },
         "type": "vless",
-        "config": "vless://18e7c6fc-7338-4e71-b395-b49089940984@shhproxy.varzesh3-cnd.site:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=SHHV2ray.snappfoodd.site#رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 18.78,
+        "config": "vless://18e7c6fc-7338-4e71-b395-b49089940984@shhproxy.varzesh3-cnd.site:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=SHHV2ray.snappfoodd.site#رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣2️⃣",
+        "ping": 7.63,
         "time": "2024-01-10 15:39:06"
     },
     {
@@ -1745,8 +1767,19 @@
         },
         "type": "trojan",
         "config": "trojan://yjQi9IX5mu@de6.melobigg.site:443?path=/me&security=tls&alpn=h2,http/1.1&fp=chrome&type=ws&sni=de6.melobigg.site#رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 22.15,
+        "ping": 20.84,
         "time": "2024-01-10 14:21:20"
+    },
+    {
+        "channel": {
+            "username": "azadi_az_inja_migzare",
+            "title": "آزادی از اینجا میگذره",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/azadi_az_inja_migzare.jpg"
+        },
+        "type": "ss",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEaTFjYzFNRmZZZGM5YUJPWVdfVzlB@172.232.129.44:1080#رایگان | SS | @azadi_az_inja_migzare | US🇺🇸 | 0️⃣1️⃣",
+        "ping": 108.38,
+        "time": "2024-01-10 13:25:16"
     },
     {
         "channel": {
@@ -1756,7 +1789,7 @@
         },
         "type": "trojan",
         "config": "trojan://qG9K8AGnn9XH5jUqeFu96g@cdn-13.cdn2cdn.com:2083?type=ws&host=cdn13.cdn2cdn.com&path=/&security=tls&fp=chrome&sni=cdn13.cdn2cdn.com#رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 2.08,
+        "ping": 5.91,
         "time": "2024-01-10 12:18:23"
     },
     {
@@ -1766,8 +1799,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/v2logy.jpg"
         },
         "type": "vless",
-        "config": "vless://49c7c89e-1805-4ade-f2b0-f6cb4bddce5a@okok.turk.coffee:80?path=/,Turk&security=none&encryption=none&type=ws#رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 205,
+        "config": "vless://49c7c89e-1805-4ade-f2b0-f6cb4bddce5a@okok.turk.coffee:80?path=/,Turk&security=none&encryption=none&type=ws#رایگان | VLESS | @v2logy | US🇺🇸 | 0️⃣1️⃣",
+        "ping": 19.99,
         "time": "2024-01-10 07:48:35"
     },
     {
@@ -1777,8 +1810,8 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/SafeNet_Server.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiJ3ZWIucGFyc3BhY2suY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJQQXJzcEFjSzUxLmVTTUFJTGtPckVBLnNIb1AiLCJpZCI6IjdmYzI3YzFjLTUwNTItNGQ2Yi04MDk5LTFhOGMwNGYxY2Q3YiIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiODAiLCJwcyI6Ilx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiB8IFZNRVNTIHwgQFNhZmVOZXRfU2VydmVyIHwgVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-        "ping": 16.01,
+        "config": "vmess://eyJhZGQiOiJ3ZWIucGFyc3BhY2suY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJQQXJzcEFjSzUxLmVTTUFJTGtPckVBLnNIb1AiLCJpZCI6IjdmYzI3YzFjLTUwNTItNGQ2Yi04MDk5LTFhOGMwNGYxY2Q3YiIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiODAiLCJwcyI6Ilx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiB8IFZNRVNTIHwgQFNhZmVOZXRfU2VydmVyIHwgUkVMQVlcdWQ4M2RcdWRlYTkgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+        "ping": 27.28,
         "time": "2024-01-09 23:44:56"
     },
     {
@@ -1789,7 +1822,7 @@
         },
         "type": "vless",
         "config": "vless://1e6797e9-16d3-4390-91d7-3e1be61a944a@All.MsV2ray.online:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&sni=de.MsV2ray.space#رایگان | VLESS | @MsV2ray | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 6.42,
+        "ping": 7.39,
         "time": "2024-01-09 22:09:44"
     },
     {
@@ -1800,7 +1833,7 @@
         },
         "type": "vless",
         "config": "vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2083?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=de.MsV2ray.space&fp=chrome&type=ws&sni=de.MsV2ray.space#رایگان | VLESS | @MsV2ray | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 3.59,
+        "ping": 7.69,
         "time": "2024-01-09 22:09:19"
     },
     {
@@ -1811,7 +1844,7 @@
         },
         "type": "vless",
         "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @free_v2rayyy | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 1.65,
+        "ping": 5.53,
         "time": "2024-01-09 18:44:39"
     },
     {
@@ -1822,7 +1855,7 @@
         },
         "type": "vless",
         "config": "vless://---Parsashonam---@www.speedtest.net:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=applications-viii-bow-barry.trycloudflare.com&fp=chrome&type=ws&sni=applications-viii-bow-barry.trycloudflare.com#رایگان | VLESS | @Parsashonam | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 67.35,
+        "ping": 42.19,
         "time": "2024-01-09 16:27:48"
     },
     {
@@ -1833,7 +1866,7 @@
         },
         "type": "vless",
         "config": "vless://---Parsashonam---@discord.gg:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=turkey-charged-modelling-plaintiff.trycloudflare.com&fp=chrome&type=ws&sni=turkey-charged-modelling-plaintiff.trycloudflare.com#رایگان | VLESS | @Parsashonam | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 52.72,
+        "ping": 22.87,
         "time": "2024-01-09 14:56:31"
     },
     {
@@ -1844,8 +1877,19 @@
         },
         "type": "ss",
         "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
-        "ping": 184.69,
+        "ping": 149.07,
         "time": "2024-01-09 13:31:04"
+    },
+    {
+        "channel": {
+            "username": "MrV2Ray",
+            "title": "MrV2Ray | کانفیگ رایگان",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/MrV2Ray.jpg"
+        },
+        "type": "vmess",
+        "config": "vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBATXJWMlJheSB8IElSXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJhZGQiOiI4NS45LjEwNi4xMTYiLCJwb3J0IjoiMTc2MjMiLCJpZCI6ImY5ZjU4ZDM2LWU3MTQtNGQzYS04YWEwLTQ0ZGZmNDE4MWFhZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==",
+        "ping": 190.13,
+        "time": "2024-01-09 13:22:18"
     },
     {
         "channel": {
@@ -1855,7 +1899,7 @@
         },
         "type": "ss",
         "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3czhxTzZHdUtWbkUxankxWjBLbWY3@195.85.115.125:55264#رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 141.29,
+        "ping": 80.44,
         "time": "2024-01-09 12:40:08"
     },
     {
@@ -1865,20 +1909,9 @@
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/proxyymeliii.jpg"
         },
         "type": "vless",
-        "config": "vless://fbf3597c-d447-480e-a159-210ee00fdb51@V2ray.motorcycles:2087?path=/&security=tls&encryption=none&host=SHHPROXY.snappfoodd.site&type=ws&sni=SHHPROXY.snappfoodd.site#رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 111.49,
+        "config": "vless://fbf3597c-d447-480e-a159-210ee00fdb51@V2ray.motorcycles:2087?path=/&security=tls&encryption=none&host=SHHPROXY.snappfoodd.site&type=ws&sni=SHHPROXY.snappfoodd.site#رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣1️⃣",
+        "ping": 58.26,
         "time": "2024-01-09 11:20:52"
-    },
-    {
-        "channel": {
-            "username": "proxyymeliii",
-            "title": "کانال پروکسی وکانفیگ🇪🇸🔥 V2ray",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/proxyymeliii.jpg"
-        },
-        "type": "vless",
-        "config": "vless://b6584653-1d6d-40e0-b2b9-92d5d4aaaf60@V2ray.motorcycles:2087?path=/&security=tls&encryption=none&host=SHHPROXY.snappfoodd.site&type=ws&sni=SHHPROXY.snappfoodd.site#رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 87.32,
-        "time": "2024-01-09 06:38:50"
     },
     {
         "channel": {
@@ -1888,7 +1921,7 @@
         },
         "type": "vless",
         "config": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#رایگان | VLESS | @FalconPolV2rayNG | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 1.72,
+        "ping": 5.3,
         "time": "2024-01-09 00:53:02"
     },
     {
@@ -1899,7 +1932,7 @@
         },
         "type": "vless",
         "config": "vless://23f15841-0587-42a6-b3cf-dcf456fc7b56@94.154.33.216:8080?security=none&encryption=none&headerType=none&type=tcp#رایگان | VLESS | @vpn_xw | UA🇺🇦 | 0️⃣1️⃣",
-        "ping": 177.65,
+        "ping": 121.74,
         "time": "2024-01-07 22:11:11"
     },
     {
@@ -1910,7 +1943,7 @@
         },
         "type": "vless",
         "config": "vless://XsV2ray---XsV2ray---XsV2ray@all.vipxali.cfd:8880?path=/&security=none&encryption=none&host=iu.supramx.site&type=ws#رایگان | VLESS | @XsV2ray | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 6.71,
+        "ping": 13.32,
         "time": "2024-01-07 17:49:01"
     },
     {
@@ -1921,7 +1954,7 @@
         },
         "type": "vless",
         "config": "vless://8a761895-800f-46ad-ad9e-c86e1ffe6574@all.vipxali.cfd:443?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&fp=safari&type=grpc&serviceName=@XsV2ray,@XsV2ray&sni=mx.XsV2ray.cfd#رایگان | VLESS | @XsV2ray | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 274.1,
+        "ping": 495.16,
         "time": "2024-01-07 17:48:51"
     },
     {
@@ -1932,19 +1965,8 @@
         },
         "type": "ss",
         "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣1️⃣",
-        "ping": 172.01,
+        "ping": 105.46,
         "time": "2024-01-07 03:32:13"
-    },
-    {
-        "channel": {
-            "username": "v2Line",
-            "title": "v2Line VPN ● v2rayNG & Xray Proxy Servers",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/v2Line.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAdjJMaW5lIHwgQVVcdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZmEgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsImFkZCI6ImF1LWZ1bGwucHJpdmF0ZWlwLm5ldCIsInBvcnQiOiI0NDMiLCJpZCI6ImRiMzczNzIxLTU1YWEtNGFkMi05YzMzLTg1NTM3N2FkMjg5ZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiXC9SQUNFVlBOIiwidGxzIjoidGxzIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=",
-        "ping": 160.3,
-        "time": "2024-01-06 21:30:13"
     },
     {
         "channel": {
@@ -1954,8 +1976,41 @@
         },
         "type": "vless",
         "config": "vless://8b99951d-f821-46c8-d0f0-a24c848e1c92@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=footlo.argha-v2pedia.monster#رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣3️⃣",
-        "ping": 3.56,
+        "ping": 13.58,
         "time": "2024-01-06 19:17:30"
+    },
+    {
+        "channel": {
+            "username": "v2Line",
+            "title": "v2Line VPN ● v2rayNG & Xray Proxy Servers",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/v2Line.jpg"
+        },
+        "type": "vmess",
+        "config": "vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAdjJMaW5lIHwgSU5cdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsImFkZCI6ImluLWZ1bGwucHJpdmF0ZWlwLm5ldCIsInBvcnQiOiI0NDMiLCJpZCI6IjRkZjJiNGRmLTcxNTctNGRiZC1hZTFmLTk5N2QxMWZkNGZlZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiXC9SQUNFVlBOIiwidGxzIjoidGxzIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=",
+        "ping": 286.49,
+        "time": "2024-01-06 09:30:43"
+    },
+    {
+        "channel": {
+            "username": "V2raysFree",
+            "title": "V2Ray - کانفیگ",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/V2raysFree.jpg"
+        },
+        "type": "vless",
+        "config": "vless://4a50c453-83d6-44a1-adbd-e10d97967e40@V2ray.motorcycles:2087?path=/&security=tls&encryption=none&host=SHHPROXY.snappfoodd.site&type=ws&sni=SHHPROXY.snappfoodd.site#رایگان | VLESS | @V2raysFree | RELAY🚩 | 0️⃣2️⃣",
+        "ping": 286.1,
+        "time": "2024-01-05 17:18:31"
+    },
+    {
+        "channel": {
+            "username": "V2raysFree",
+            "title": "V2Ray - کانفیگ",
+            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/V2raysFree.jpg"
+        },
+        "type": "vless",
+        "config": "vless://46df0cce-e115-4c28-927c-70450bf4ec2e@shhproxy.varzesh3-cnd.site:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=shhV2ray.snappfoodd.site#رایگان | VLESS | @V2raysFree | RELAY🚩 | 0️⃣1️⃣",
+        "ping": 257.28,
+        "time": "2024-01-05 17:18:20"
     },
     {
         "channel": {
@@ -1965,7 +2020,7 @@
         },
         "type": "vless",
         "config": "vless://ae725976-e0bd-4967-b10f-3944af1129f8@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=footlo.argha-v2pedia.monster#رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 6.48,
+        "ping": 13.91,
         "time": "2024-01-05 02:02:00"
     },
     {
@@ -1976,19 +2031,8 @@
         },
         "type": "vless",
         "config": "vless://7b7115ca-0255-46f8-fff0-5a952f4ce927@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=footlo.argha-v2pedia.monster#رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 356.4,
+        "ping": 400.11,
         "time": "2024-01-04 12:42:53"
-    },
-    {
-        "channel": {
-            "username": "yaney_01",
-            "title": "Yaney科技频道",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/yaney_01.jpg"
-        },
-        "type": "trojan",
-        "config": "trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk03.trojanyyds.xyz:443?sni=hk03.trojanyyds.xyz#رایگان | TROJAN | @yaney_01 | JP🇯🇵 | 0️⃣1️⃣",
-        "ping": 439.53,
-        "time": "2024-01-04 12:31:45"
     },
     {
         "channel": {
@@ -1998,7 +2042,7 @@
         },
         "type": "vless",
         "config": "vless://3e6f69ed-95e0-4549-b91b-c7190e61b99d@V2ray.motorcycles:2087?path=/&security=tls&encryption=none&host=FreeV2rayng.SHHPROXY.monster&fp=safari&type=ws&sni=FreeV2rayng.SHHPROXY.monster#رایگان | VLESS | @V2rayNGmat | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 171.33,
+        "ping": 312.13,
         "time": "2024-01-02 10:24:04"
     },
     {
@@ -2009,7 +2053,7 @@
         },
         "type": "vless",
         "config": "vless://318dbc8d-d03e-4e0d-8665-9a3471fe160e@ip.aminivip2023.site:8443?path=/V2zed&security=tls&encryption=none&alpn=http/1.1&host=ri.aminivip2023.site&fp=safari&type=ws&sni=ri.aminivip2023.site#رایگان | VLESS | @V2rayNGmat | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 15.83,
+        "ping": 32.14,
         "time": "2024-01-02 10:22:43"
     },
     {
@@ -2020,7 +2064,7 @@
         },
         "type": "ss",
         "config": "ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.134.202:8091#رایگان | SS | @servermomo | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 41.46,
+        "ping": 38,
         "time": "2024-01-01 16:05:51"
     },
     {
@@ -2031,7 +2075,7 @@
         },
         "type": "vless",
         "config": "vless://56ff917c-d151-4ead-afba-d566a46b5fc8@join.v2team.cfd:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site#رایگان | VLESS | @v2_team | US🇺🇸 | 0️⃣3️⃣",
-        "ping": 17.51,
+        "ping": 19.72,
         "time": "2023-12-31 21:43:46"
     },
     {
@@ -2042,7 +2086,7 @@
         },
         "type": "ss",
         "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTQ1OTYzMy1kODI1LTQ3NzgtYmY3Mi0xNzVhYTFlZjM3Mzc=@154.7.179.11:7777#رایگان | SS | @servermomo | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 10.16,
+        "ping": 59.78,
         "time": "2023-12-31 20:49:05"
     },
     {
@@ -2053,7 +2097,7 @@
         },
         "type": "vless",
         "config": "vless://dbfeb97d-a09f-4076-b660-421c6da236cd@join.v2team.cfd:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site#رایگان | VLESS | @v2_team | US🇺🇸 | 0️⃣2️⃣",
-        "ping": 155.25,
+        "ping": 19.55,
         "time": "2023-12-31 01:05:45"
     },
     {
@@ -2064,7 +2108,7 @@
         },
         "type": "vless",
         "config": "vless://7a4b9956-6822-43bd-b7f9-aeaffd998036@join.v2team.cfd:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site#رایگان | VLESS | @v2_team | US🇺🇸 | 0️⃣1️⃣",
-        "ping": 144.15,
+        "ping": 58.95,
         "time": "2023-12-30 02:13:19"
     },
     {
@@ -2075,7 +2119,7 @@
         },
         "type": "reality",
         "config": "vless://b9bec4e7-0c93-4724-91da-368e285cc5b4@kamyarservers.camdvr.org:443?type=grpc&serviceName=@Fnet00&security=reality&pbk=pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4&fp=firefox&sni=greenpepper.ir&sid=0960546b&spx=/#رایگان | REALITY | @fnet00 | IR🇮🇷 | 0️⃣1️⃣",
-        "ping": 367.46,
+        "ping": 215.73,
         "time": "2023-12-22 02:46:45"
     },
     {
@@ -2086,7 +2130,7 @@
         },
         "type": "vless",
         "config": "vless://c5baa583-b86e-4cff-9ae7-2e69bd99811e@all.v-2rayngvpn.cfd:2083?security=tls&encryption=none&headerType=none&type=tcp&sni=Loop.v2rayvpn2.sbs#رایگان | VLESS | @v2rayngvpn | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 22.72,
+        "ping": 210.83,
         "time": "2023-12-21 17:50:12"
     },
     {
@@ -2097,7 +2141,7 @@
         },
         "type": "vless",
         "config": "vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@www.speedtest.net:443?path=V1/?ed=2060&security=tls&encryption=none&host=worker-sweet-sun-58f9.qranth.workers.dev&type=ws&sni=worker-sweet-sun-58f9.qranth.workers.dev#رایگان | VLESS | @bypass_filter | RELAY🚩 | 0️⃣2️⃣",
-        "ping": 3.85,
+        "ping": 8.21,
         "time": "2023-12-15 15:28:53"
     },
     {
@@ -2108,7 +2152,7 @@
         },
         "type": "vless",
         "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.188.173:443?path=/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=963c1f6a-8485-443a-a386-4e6d34a64dc8.mrvi.online&fp=chrome&type=ws&sni=963C1F6A-8485-443a-a386-4E6D34A64dc8.MRvi.ONline#رایگان | VLESS | @Qv2rayDONATED | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 1.59,
+        "ping": 5.39,
         "time": "2023-12-05 04:42:06"
     },
     {
@@ -2119,7 +2163,7 @@
         },
         "type": "vless",
         "config": "vless://deac8b20-137f-4bda-838b-e726548439bb@www.canva.com:2096?path=/@CUSTOMVPNSERVER&security=tls&encryption=none&host=mci-tci-germany.netguardians.xyz&type=ws&sni=mci-tci-germany.netguardians.xyz#رایگان | VLESS | @CUSTOMVPNSERVER | RELAY🚩 | 0️⃣1️⃣",
-        "ping": 6.52,
+        "ping": 13.3,
         "time": "2023-12-01 17:42:03"
     },
     {
@@ -2130,7 +2174,7 @@
         },
         "type": "vless",
         "config": "vless://316a0817-ecec-41bd-9e69-b20222153461@87.121.113.52:80?mode=multi&security=none&encryption=none&type=grpc&serviceName=@bypass_filter#رایگان | VLESS | @bypass_filter | BG🇧🇬 | 0️⃣1️⃣",
-        "ping": 182.36,
+        "ping": 119.85,
         "time": "2023-10-15 13:51:55"
     }
 ]
