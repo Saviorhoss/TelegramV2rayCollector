@@ -111,20 +111,20 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | VMESS | @azadi_az_inja_migzare | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @azadi_az_inja_migzare | RELAY🚩 | 0️⃣2️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | RS🇷🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | UA🇺🇦 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣2️⃣",
                 "رایگان | VMESS | @proxystore11 | CH🇨🇭 | 0️⃣3️⃣",
-                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣1️⃣",
                 "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣1️⃣",
                 "رایگان | VMESS | @Hope_Net | CH🇨🇭 | 0️⃣2️⃣",
                 "رایگان | VMESS | @v2Line | AU🇦🇺 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2Line | CA🇨🇦 | 0️⃣2️⃣",
-                "رایگان | VMESS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | VMESS | @forwardv2ray | RELAY🚩 | 0️⃣1️⃣"
             ]
         },
         {
@@ -132,20 +132,20 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | VMESS | @azadi_az_inja_migzare | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @azadi_az_inja_migzare | RELAY🚩 | 0️⃣2️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | RS🇷🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | UA🇺🇦 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣2️⃣",
                 "رایگان | VMESS | @proxystore11 | CH🇨🇭 | 0️⃣3️⃣",
-                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣1️⃣",
                 "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣1️⃣",
                 "رایگان | VMESS | @Hope_Net | CH🇨🇭 | 0️⃣2️⃣",
                 "رایگان | VMESS | @v2Line | AU🇦🇺 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2Line | CA🇨🇦 | 0️⃣2️⃣",
-                "رایگان | VMESS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | VMESS | @forwardv2ray | RELAY🚩 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -153,6 +153,32 @@
         },
         {
             "tag": "رایگان | VMESS | @azadi_az_inja_migzare | US🇺🇸 | 0️⃣1️⃣",
+            "type": "vmess",
+            "server": "iranserver.com",
+            "server_port": 8880,
+            "uuid": "98e32d88-0202-4fa1-ad4e-b3d1005e9fbc",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@x2rayn_vpn",
+                "headers": {
+                    "Host": "99001866b872f585.AWLONE.EU.ORG"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VMESS | @azadi_az_inja_migzare | RELAY🚩 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "hamrahaval.asan3a.shop",
             "server_port": 8080,
@@ -283,24 +309,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
-            "type": "vmess",
-            "server": "162.251.62.115",
-            "server_port": 22324,
-            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "104.27.102.105",
             "server_port": 8080,
@@ -326,7 +335,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "104.16.148.117",
             "server_port": 8080,
@@ -369,7 +378,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "104.27.102.105",
             "server_port": 8080,
@@ -500,11 +509,11 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @forwardv2ray | RELAY🚩 | 0️⃣1️⃣",
             "type": "vmess",
-            "server": "iranserver.com",
-            "server_port": 8880,
-            "uuid": "98e32d88-0202-4fa1-ad4e-b3d1005e9fbc",
+            "server": "332.outline-vpn.cloud",
+            "server_port": 2052,
+            "uuid": "Telegram-V2ray_alpha",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -517,11 +526,11 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@x2rayn_vpn",
+                "path": "\/",
                 "headers": {
-                    "Host": "99001866b872f585.AWLONE.EU.ORG"
+                    "Host": "bia-to.code-v2.cfd"
                 },
-                "max_early_data": 0,
+                "max_early_data": 2048,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
