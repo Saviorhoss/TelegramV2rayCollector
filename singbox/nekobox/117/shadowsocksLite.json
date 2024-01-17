@@ -107,7 +107,8 @@
                 "URL-TEST | رایگان",
                 "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @iP_CF | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @iP_CF | GI🇬🇮 | 0️⃣1️⃣",
+                "رایگان | SS | @iP_CF | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣1️⃣"
@@ -119,7 +120,8 @@
             "outbounds": [
                 "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @iP_CF | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @iP_CF | GI🇬🇮 | 0️⃣1️⃣",
+                "رایگان | SS | @iP_CF | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣1️⃣"
@@ -149,7 +151,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @iP_CF | GB🇬🇧 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @iP_CF | GI🇬🇮 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "95.164.68.112",
+            "server_port": 46478,
+            "method": "chacha20-ietf-poly1305",
+            "password": "KO4t1fiT0Op82Lg8x7USrT",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @iP_CF | GB🇬🇧 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "178.79.187.120",
             "server_port": 80,
