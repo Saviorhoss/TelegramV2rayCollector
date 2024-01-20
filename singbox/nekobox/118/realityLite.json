@@ -111,9 +111,9 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @iP_CF | IR🇮🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣7️⃣"
+                "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣6️⃣",
+                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣1️⃣"
             ]
         },
         {
@@ -121,9 +121,9 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @iP_CF | IR🇮🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣7️⃣"
+                "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣6️⃣",
+                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -165,41 +165,6 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @iP_CF | IR🇮🇷 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "91.107.181.102",
-            "server_port": 29790,
-            "uuid": "75a747f3-f914-47dd-af5c-ec2f0a1438a6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ea.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "gHpgh7fQoB9kzze4I6Pwvo8sXiAPIbja2ieX03dVjkE",
-                    "short_id": "1bd52d06"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": null,
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
             "tag": "رایگان | REALITY | @V2rayCollectorDonate | GB🇬🇧 | 0️⃣2️⃣",
             "type": "vless",
             "server": "xn--mgby2ch93cpf.xn--rgb.website",
@@ -228,7 +193,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣7️⃣",
+            "tag": "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣6️⃣",
             "type": "vless",
             "server": "95.216.208.84",
             "server_port": 443,
@@ -257,6 +222,41 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@ipV2Ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "yourconfig.camdvr.org",
+            "server_port": 443,
+            "uuid": "564985a0-ea67-4049-b68b-efc773b1394a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "greenpepper.ir",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4",
+                    "short_id": "0960546b"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@Fnet00",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
